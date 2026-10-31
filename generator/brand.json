@@ -1,0 +1,22 @@
+{
+  "_note": "The ONLY file allowed to hold the fictional company's name and brand colours. Everything else reads from here.",
+  "company_name": "Corveth Lyle Partners",
+  "mark_letters": "CL",
+  "colours": {
+    "primary": "#1B2A41",
+    "accent": "#C8963E",
+    "secondary": "#4F7C82",
+    "light": "#F3EFE6",
+    "ink": "#14181F"
+  },
+  "creative_palettes": [
+    ["#1B2A41", "#C8963E", "#F3EFE6"],
+    ["#4F7C82", "#F3EFE6", "#1B2A41"],
+    ["#F3EFE6", "#1B2A41", "#C8963E"],
+    ["#14181F", "#4F7C82", "#F3EFE6"],
+    ["#C8963E", "#1B2A41", "#F3EFE6"],
+    ["#2E4A5C", "#E3C78F", "#F3EFE6"],
+    ["#6B8F94", "#14181F", "#F3EFE6"],
+    ["#3A2F4A", "#C8963E", "#EDE6F2"]
+  ]
+}
