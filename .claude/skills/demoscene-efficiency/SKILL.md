@@ -1,61 +1,67 @@
 ---
 name: demoscene-efficiency
-description: Use when building performance-sensitive browser code: WebGL/Three.js scenes, data viz, large datasets, procedural graphics or animation. Skip for small scripts and one-off tools.
+description: Use for any code where runtime speed, memory or load size matters, especially browser code: WebGL/Three.js, data viz, large datasets, procedural graphics, animation, simulations, parsers, hot loops. Code is machine-maintained, so speed and leanness beat human readability.
 ---
 
 # Demoscene Efficiency
 
-Achieve more with less. Think like a demoscene coder with a 4K budget, an embedded engineer with tight memory, and a mathematician hunting for a better representation. Apply this even on powerful hardware: the goal is not minimal resources at any cost, it is no waste.
+Fast and lean first. Think like a demoscene coder with a 4K budget, an embedded engineer with tight memory, and a mathematician hunting for a better representation. Apply this even on powerful hardware: no waste.
+
+The code is written and maintained by machines, not read by humans. Do not trade speed or size for human readability. Clever is fine when it is faster or smaller.
 
 Do not default to the most conventional implementation. Question whether the same result can be reached with less.
 
 ## When to skip
-Small scripts, one-off tools, and quick prototypes where writing speed matters more than runtime. Don't over-engineer.
+Only throwaway one-offs that run once and are deleted. Everything else gets this treatment.
 
 ## Order of work
 1. Eliminate work that shouldn't exist.
-2. Improve the algorithm.
+2. Improve the algorithm and complexity class.
 3. Change the data representation.
 4. Cut memory use and allocation.
-5. Use the hardware (GPU, instancing, workers).
-6. Tune implementation details.
+5. Use the hardware: GPU shaders, instancing, workers, WASM, SIMD.
+6. Tune the low level: branchless code, bit tricks, unrolling, cache layout.
 
-Never optimise an operation that should not exist in the first place.
+Never optimise an operation that should not exist in the first place. Lower steps never excuse skipping higher ones.
 
 ## Representation first
-Before writing code, ask:
 - Does this need storing, or can it be derived?
 - Can a large structure become a few parameters or a seed?
-- Can many values share one representation (lookup tables, dictionaries, indices)?
-- Can the problem become a simpler mathematical operation?
+- Can many values share one representation (lookup tables, dictionaries, indices, bitfields)?
+- Can the problem become a simpler mathematical operation (closed form, transform, symmetry)?
 
-The biggest wins usually come from changing the representation, not from tuning instructions.
+The biggest wins come from changing the representation, not from tuning instructions.
 
 ## Generate rather than store
-- Build geometry, textures, patterns and animation from functions and seeds.
-- Use reusable primitives instead of duplicated assets.
-- Precompute only results that are reused; otherwise compute on demand.
-- Prefer incremental updates to full recomputes.
-- Skip work that can't affect the output (offscreen, sub-pixel, unchanged).
+- Build geometry, textures, patterns, audio and animation from functions and seeds.
+- Reusable primitives over duplicated assets.
+- Precompute only what is reused; otherwise compute on demand.
+- Incremental updates over full recomputes. Dirty flags, not redraw-everything.
+- Skip work that can't affect output: offscreen, sub-pixel, occluded, unchanged.
 - Exploit symmetry.
 
-## Browser specifics
-- For large collections, use typed arrays and flat buffers instead of arrays of objects.
-- Use shared geometry and material with InstancedMesh instead of many separate meshes.
-- Reuse vectors, matrices and buffers in hot loops; no allocations per frame.
-- Move bulk math to shaders when the data already lives on the GPU. Count upload and setup cost, because the GPU is not automatically faster.
-- Quantise where precision allows: Float32 over Float64, Uint16 indices, packed colours.
-- Stream or chunk large data instead of loading everything at once.
-- Add a framework or dependency only when it earns its weight.
+## Low level (allowed and encouraged when it measures faster)
+- Typed arrays and flat struct-of-arrays buffers; never arrays of objects in hot paths.
+- Zero allocation per frame: preallocate, pool, reuse vectors, matrices and buffers.
+- Monomorphic hot functions; stable object shapes; no closures, spread, destructuring, iterators or try/catch inside hot loops.
+- Bitwise ops, integer math (`|0`, `>>>0`, `Math.imul`), fixed point, packed RGBA in Uint32, bitmask flags.
+- Branchless selects and lookup tables in place of branches and transcendental calls.
+- Cache-friendly access: linear traversal, tight strides, data sorted by access order.
+- Quantise: Float32 over Float64, Uint16/Uint8 indices and attributes, half floats on GPU.
+- Hand-written WASM or WASM SIMD for heavy numeric kernels when JS has hit its limit. Raw machine code can't run in a browser, so WASM is the floor there; outside the browser, use native code where it measurably wins.
+- Bulk per-element math in shaders when data already lives on the GPU; minimise draw calls, state changes and uploads. The GPU is not automatically faster, so count transfer cost.
+- Workers and SharedArrayBuffer/transferables to keep the main thread free.
+- Stream or chunk large data. Lazy-load what isn't needed for first frame.
+- Zero dependencies by default. A dependency must beat a hand-rolled version on size or speed.
+- Minimal output size: no dead code, no unused features, tree-shakeable, minified for shipping.
 
-## Guardrails
-- Readability over cleverness. No code golf, obscure bit tricks, or micro-optimisation without a measured win.
-- Use established libraries where they are already efficient.
-- Don't drop precision the result needs.
-- Never trade away correctness or security.
+## Hard limits (never cross)
+- Correctness: same results, all edge cases, no undefined behaviour.
+- Security: no unsafe eval, no unchecked input, no memory-safety shortcuts in native/WASM.
+- Precision the result actually needs.
 
 ## Prove it
-- Measure before and after: frame time, peak memory, load size (performance.now, renderer.info, DevTools).
-- Test with realistic data sizes and check how it scales.
-- If you can't measure, give a defensible technical explanation. Never claim a win without one or the other.
-- Briefly explain significant optimisation decisions in your reply.
+- Measure before and after: frame time, throughput, peak memory, GC pauses, load size (performance.now, renderer.info, DevTools profiler, memory snapshots).
+- Test at realistic and worst-case data sizes; check scaling.
+- Keep a change only if it measures faster or smaller. If you can't measure, give a defensible technical reason.
+- Report significant optimisation decisions in one or two lines each.
