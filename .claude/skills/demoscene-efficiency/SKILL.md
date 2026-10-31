@@ -57,8 +57,23 @@ The biggest wins come from changing the representation, not from tuning instruct
 
 ## Hard limits (never cross)
 - Correctness: same results, all edge cases, no undefined behaviour.
-- Security: no unsafe eval, no unchecked input, no memory-safety shortcuts in native/WASM.
 - Precision the result actually needs.
+- Security. If speed and security conflict, security wins. Leanness usually helps: less code and fewer dependencies mean less attack surface.
+
+## Web security
+- Treat all external data as hostile: URLs, files, fetch responses, postMessage, worker messages, storage, user input.
+- Bound everything. Validate sizes, counts and offsets before allocating or indexing, so a forged length field can't trigger a giant typed-array allocation, out-of-bounds read or CPU/memory exhaustion. Cap recursion depth and loop counts driven by input.
+- WASM and native kernels: check every index and length at the boundary; never trust offsets from data.
+- No eval, new Function, or string-based setTimeout. No innerHTML/outerHTML/insertAdjacentHTML/document.write with untrusted data; use textContent or DOM APIs.
+- Stay compatible with a strict Content-Security-Policy: no inline scripts or handlers, and WASM needs only 'wasm-unsafe-eval', never 'unsafe-eval'.
+- Parse untrusted JSON into Maps or null-prototype objects, or reject `__proto__`, `constructor` and `prototype` keys, to block prototype pollution.
+- No catastrophic-backtracking regexes on untrusted input; prefer hand-rolled linear scanners (also faster).
+- postMessage: always check event.origin and validate message shape; never post to `'*'` with sensitive data.
+- SharedArrayBuffer and high-resolution timers need cross-origin isolation (COOP/COEP headers). Don't weaken isolation to get them.
+- Supply chain: zero dependencies by default; pin exact versions, use lockfiles, and add Subresource Integrity (integrity + crossorigin) on any CDN script or style.
+- No secrets, API keys or tokens in client code or bundles. Serve over HTTPS only.
+- Constant-time comparison for secrets and tokens; never optimise those into early exit.
+- Don't leak data through caches, logs, error messages or source maps shipped to production.
 
 ## Prove it
 - Measure before and after: frame time, throughput, peak memory, GC pauses, load size (performance.now, renderer.info, DevTools profiler, memory snapshots).
