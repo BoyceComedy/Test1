@@ -1,0 +1,5 @@
+<resources>
+    <color name="qc_background">#1C1B1A</color>
+    <color name="qc_shape">#EFEDE6</color>
+    <color name="qc_status_bar">#000000</color>
+</resources>

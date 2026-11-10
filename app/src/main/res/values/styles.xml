@@ -1,8 +1,10 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/qc_background</item>
+        <item name="colorPrimaryDark">@color/qc_status_bar</item>
+        <item name="android:windowBackground">@color/qc_background</item>
     </style>
 
 </resources>
