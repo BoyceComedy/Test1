@@ -1,0 +1,5 @@
+{
+  "name": "orchestrator",
+  "version": "0.1.0",
+  "description": "Lead-orchestrator workflow: turn a SPEC.md into a task table, delegate by model tier, integrate and verify."
+}
