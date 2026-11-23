@@ -1,0 +1,1497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="4160px" height="3426px" viewBox="0 0 4160 3426">
+  <title>Geometric Logo Component Playground</title>
+  <g id="background">
+    <rect x="0" y="0" width="4160" height="3426" fill="#ffffff" stroke="none"/>
+    <line x1="120" y1="236" x2="4040" y2="236" fill="none" stroke="#000000" stroke-width="1"/>
+    <rect x="120" y="322" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="310" y="322" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="500" y="322" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="690" y="322" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="880" y="322" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1070" y="322" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1260" y="322" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1450" y="322" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1640" y="322" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1830" y="322" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="120" y="534" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="310" y="534" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="500" y="534" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="690" y="534" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="880" y="534" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1070" y="534" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1260" y="534" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2160" y="322" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2350" y="322" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2540" y="322" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2730" y="322" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2920" y="322" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3110" y="322" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3300" y="322" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3490" y="322" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3680" y="322" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3870" y="322" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2160" y="534" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2350" y="534" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2540" y="534" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2730" y="534" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2920" y="534" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3110" y="534" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3300" y="534" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3490" y="534" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="120" y="842" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="310" y="842" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="500" y="842" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="690" y="842" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="880" y="842" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1070" y="842" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1260" y="842" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1450" y="842" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1640" y="842" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1830" y="842" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="120" y="1054" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="310" y="1054" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="500" y="1054" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="690" y="1054" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="880" y="1054" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1070" y="1054" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1260" y="1054" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1450" y="1054" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2160" y="842" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2350" y="842" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2540" y="842" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2730" y="842" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2920" y="842" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3110" y="842" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3300" y="842" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3490" y="842" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3680" y="842" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3870" y="842" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2160" y="1054" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2350" y="1054" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2540" y="1054" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2730" y="1054" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2920" y="1054" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3110" y="1054" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3300" y="1054" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3490" y="1054" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="120" y="1362" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="310" y="1362" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="500" y="1362" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="690" y="1362" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="880" y="1362" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1070" y="1362" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1260" y="1362" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1450" y="1362" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1640" y="1362" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1830" y="1362" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="120" y="1574" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="310" y="1574" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="500" y="1574" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="690" y="1574" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="880" y="1574" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1070" y="1574" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1260" y="1574" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1450" y="1574" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2160" y="1362" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2350" y="1362" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2540" y="1362" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2730" y="1362" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2920" y="1362" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3110" y="1362" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3300" y="1362" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3490" y="1362" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3680" y="1362" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3870" y="1362" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2160" y="1574" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2350" y="1574" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2540" y="1574" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2730" y="1574" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2920" y="1574" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3110" y="1574" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3300" y="1574" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3490" y="1574" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3680" y="1574" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3870" y="1574" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="120" y="1882" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="310" y="1882" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="500" y="1882" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="690" y="1882" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="880" y="1882" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1070" y="1882" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1260" y="1882" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1450" y="1882" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1640" y="1882" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1830" y="1882" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="120" y="2094" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="310" y="2094" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="500" y="2094" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="690" y="2094" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="880" y="2094" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1070" y="2094" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1260" y="2094" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1450" y="2094" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2160" y="1882" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2350" y="1882" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2540" y="1882" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2730" y="1882" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2920" y="1882" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3110" y="1882" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3300" y="1882" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3490" y="1882" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3680" y="1882" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3870" y="1882" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2160" y="2094" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2350" y="2094" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2540" y="2094" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2730" y="2094" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2920" y="2094" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3110" y="2094" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3300" y="2094" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3490" y="2094" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="120" y="2402" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="310" y="2402" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="500" y="2402" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="690" y="2402" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="880" y="2402" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1070" y="2402" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1260" y="2402" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1450" y="2402" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1640" y="2402" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1830" y="2402" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="120" y="2614" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="310" y="2614" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="500" y="2614" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="690" y="2614" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="880" y="2614" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1070" y="2614" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1260" y="2614" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2160" y="2402" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2350" y="2402" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2540" y="2402" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2730" y="2402" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2920" y="2402" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3110" y="2402" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3300" y="2402" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3490" y="2402" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3680" y="2402" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3870" y="2402" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2160" y="2614" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2350" y="2614" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2540" y="2614" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2730" y="2614" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2920" y="2614" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="3110" y="2614" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="120" y="2922" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="310" y="2922" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="500" y="2922" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="690" y="2922" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="880" y="2922" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1070" y="2922" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1260" y="2922" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1450" y="2922" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1640" y="2922" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1830" y="2922" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="120" y="3134" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="310" y="3134" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="500" y="3134" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="690" y="3134" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="880" y="3134" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1070" y="3134" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1260" y="3134" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="1450" y="3134" width="170" height="170" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+    <rect x="2160" y="2922" width="1880" height="382" rx="8" ry="8" fill="#f2f2f2" stroke="none"/>
+  </g>
+  <g id="text-and-labels">
+    <text id="title" x="120" y="128" font-family="Helvetica, Arial, sans-serif" font-size="64" font-weight="bold" fill="#000000" text-anchor="start">Geometric Logo Component Playground</text>
+    <text id="subtitle" x="120" y="178" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="normal" fill="#555555" text-anchor="start">A library of editable vector building blocks for experimental logo construction. Select, copy, combine, overlap, subtract, recolour and scale.</text>
+    <text id="meta" x="120" y="214" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="normal" fill="#777777" text-anchor="start">196 components  ·  11 categories  ·  2 px black outline  ·  #9A9A9A fill  ·  even-odd compound paths for cut-outs  ·  0.75 px #8C8C8C construction guides</text>
+    <text x="120" y="300" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" fill="#9a9a9a" text-anchor="start">01</text>
+    <text id="s01-title" x="160" y="300" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" fill="#000000" text-anchor="start">Circles and Rings</text>
+    <text x="2000" y="300" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#777777" text-anchor="end">17 components</text>
+    <text x="205" y="512" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Circle</text>
+    <text x="395" y="512" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Circle filled</text>
+    <text x="585" y="512" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Circle sizes</text>
+    <text x="775" y="512" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Concentric circles</text>
+    <text x="965" y="512" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Thin ring</text>
+    <text x="1155" y="512" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Thick ring</text>
+    <text x="1345" y="512" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Nested circles</text>
+    <text x="1535" y="512" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Offset circles</text>
+    <text x="1725" y="512" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Overlapping circles</text>
+    <text x="1915" y="512" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Tangent circles</text>
+    <text x="205" y="724" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Circle intersection</text>
+    <text x="395" y="724" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Vesica piscis</text>
+    <text x="585" y="724" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Circular cut-out</text>
+    <text x="775" y="724" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Crescent</text>
+    <text x="965" y="724" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Triple overlap</text>
+    <text x="1155" y="724" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Circle row</text>
+    <text x="1345" y="724" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Ring and dot</text>
+    <text x="2160" y="300" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" fill="#9a9a9a" text-anchor="start">02</text>
+    <text id="s02-title" x="2200" y="300" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" fill="#000000" text-anchor="start">Squares and Rectangles</text>
+    <text x="4040" y="300" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#777777" text-anchor="end">18 components</text>
+    <text x="2245" y="512" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Square</text>
+    <text x="2435" y="512" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Square filled</text>
+    <text x="2625" y="512" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Square sizes</text>
+    <text x="2815" y="512" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Rectangle 2:1</text>
+    <text x="3005" y="512" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Rectangle 3:1</text>
+    <text x="3195" y="512" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Rectangle 1:2</text>
+    <text x="3385" y="512" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Golden rectangle</text>
+    <text x="3575" y="512" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Rounded square</text>
+    <text x="3765" y="512" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Rounded rectangle</text>
+    <text x="3955" y="512" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Nested squares</text>
+    <text x="2245" y="724" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Square in diamond</text>
+    <text x="2435" y="724" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Offset squares</text>
+    <text x="2625" y="724" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Overlapping squares</text>
+    <text x="2815" y="724" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Square cut-out</text>
+    <text x="3005" y="724" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Circle in square</text>
+    <text x="3195" y="724" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Square in circle</text>
+    <text x="3385" y="724" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Square + circle</text>
+    <text x="3575" y="724" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Leaf square</text>
+    <text x="120" y="820" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" fill="#9a9a9a" text-anchor="start">03</text>
+    <text id="s03-title" x="160" y="820" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" fill="#000000" text-anchor="start">Polygons</text>
+    <text x="2000" y="820" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#777777" text-anchor="end">18 components</text>
+    <text x="205" y="1032" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Triangle</text>
+    <text x="395" y="1032" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Equilateral triangle</text>
+    <text x="585" y="1032" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Equilateral filled</text>
+    <text x="775" y="1032" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Inverted triangle</text>
+    <text x="965" y="1032" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Right triangle</text>
+    <text x="1155" y="1032" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Pentagon</text>
+    <text x="1345" y="1032" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Pentagon filled</text>
+    <text x="1535" y="1032" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Hexagon</text>
+    <text x="1725" y="1032" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Hexagon filled</text>
+    <text x="1915" y="1032" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Octagon</text>
+    <text x="205" y="1244" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Octagon filled</text>
+    <text x="395" y="1244" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Diamond</text>
+    <text x="585" y="1244" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Diamond filled</text>
+    <text x="775" y="1244" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Rhombus 60°</text>
+    <text x="965" y="1244" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Kite</text>
+    <text x="1155" y="1244" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Trapezoid</text>
+    <text x="1345" y="1244" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Parallelogram</text>
+    <text x="1535" y="1244" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Nested triangles</text>
+    <text x="2160" y="820" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" fill="#9a9a9a" text-anchor="start">04</text>
+    <text id="s04-title" x="2200" y="820" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" fill="#000000" text-anchor="start">Stars and Radial Shapes</text>
+    <text x="4040" y="820" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#777777" text-anchor="end">18 components</text>
+    <text x="2245" y="1032" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Five-point star</text>
+    <text x="2435" y="1032" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Five-point star filled</text>
+    <text x="2625" y="1032" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Pentagram</text>
+    <text x="2815" y="1032" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Six-point star</text>
+    <text x="3005" y="1032" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Six-point star filled</text>
+    <text x="3195" y="1032" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Eight-point star</text>
+    <text x="3385" y="1032" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Eight-point star filled</text>
+    <text x="3575" y="1032" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Octagram</text>
+    <text x="3765" y="1032" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Ten-point star</text>
+    <text x="3955" y="1032" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Twelve-point burst</text>
+    <text x="2245" y="1244" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Four-point star</text>
+    <text x="2435" y="1244" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Radial divisions</text>
+    <text x="2625" y="1244" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Spoked wheel</text>
+    <text x="2815" y="1244" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Radial grid</text>
+    <text x="3005" y="1244" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Petal rosette</text>
+    <text x="3195" y="1244" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Seed circles</text>
+    <text x="3385" y="1244" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Asterisk</text>
+    <text x="3575" y="1244" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Radial triangles</text>
+    <text x="120" y="1340" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" fill="#9a9a9a" text-anchor="start">05</text>
+    <text id="s05-title" x="160" y="1340" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" fill="#000000" text-anchor="start">Circular Segments</text>
+    <text x="2000" y="1340" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#777777" text-anchor="end">18 components</text>
+    <text x="205" y="1552" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Quarter circle</text>
+    <text x="395" y="1552" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Half circle</text>
+    <text x="585" y="1552" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Semicircle outline</text>
+    <text x="775" y="1552" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Sector 60°</text>
+    <text x="965" y="1552" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Sector 120°</text>
+    <text x="1155" y="1552" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Arc 90°</text>
+    <text x="1345" y="1552" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Arc 120°</text>
+    <text x="1535" y="1552" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Arc 180°</text>
+    <text x="1725" y="1552" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Arc 270°</text>
+    <text x="1915" y="1552" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Open arcs</text>
+    <text x="205" y="1764" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Double arc</text>
+    <text x="395" y="1764" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Ring segment 90°</text>
+    <text x="585" y="1764" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Arch</text>
+    <text x="775" y="1764" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Quarter ring</text>
+    <text x="965" y="1764" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Circular wedge</text>
+    <text x="1155" y="1764" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Fan</text>
+    <text x="1345" y="1764" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Segmented ring</text>
+    <text x="1535" y="1764" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Pie 270°</text>
+    <text x="2160" y="1340" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" fill="#9a9a9a" text-anchor="start">06</text>
+    <text id="s06-title" x="2200" y="1340" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" fill="#000000" text-anchor="start">Geometric Lines and Structures</text>
+    <text x="4040" y="1340" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#777777" text-anchor="end">20 components</text>
+    <text x="2245" y="1552" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Horizontal lines</text>
+    <text x="2435" y="1552" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Vertical lines</text>
+    <text x="2625" y="1552" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Diagonal lines</text>
+    <text x="2815" y="1552" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">30° lines</text>
+    <text x="3005" y="1552" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">45° lines</text>
+    <text x="3195" y="1552" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">60° lines</text>
+    <text x="3385" y="1552" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Cross</text>
+    <text x="3575" y="1552" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Diagonal cross</text>
+    <text x="3765" y="1552" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">T-shape</text>
+    <text x="3955" y="1552" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">L-shape</text>
+    <text x="2245" y="1764" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">U-shape</text>
+    <text x="2435" y="1764" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Corner brackets</text>
+    <text x="2625" y="1764" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Chevron</text>
+    <text x="2815" y="1764" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Double chevron</text>
+    <text x="3005" y="1764" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Arrow</text>
+    <text x="3195" y="1764" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Line arrow</text>
+    <text x="3385" y="1764" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Parallel bars</text>
+    <text x="3575" y="1764" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Diagonal bars</text>
+    <text x="3765" y="1764" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Steps</text>
+    <text x="3955" y="1764" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Zigzag</text>
+    <text x="120" y="1860" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" fill="#9a9a9a" text-anchor="start">07</text>
+    <text id="s07-title" x="160" y="1860" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" fill="#000000" text-anchor="start">Modular Components</text>
+    <text x="2000" y="1860" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#777777" text-anchor="end">18 components</text>
+    <text x="205" y="2072" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Capsule</text>
+    <text x="395" y="2072" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Pill filled</text>
+    <text x="585" y="2072" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Vertical pill</text>
+    <text x="775" y="2072" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Pill stack</text>
+    <text x="965" y="2072" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Repeated circles</text>
+    <text x="1155" y="2072" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Repeated squares</text>
+    <text x="1345" y="2072" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Three circles</text>
+    <text x="1535" y="2072" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Three-part ring</text>
+    <text x="1725" y="2072" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Four squares</text>
+    <text x="1915" y="2072" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Four circles</text>
+    <text x="205" y="2284" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Four triangles</text>
+    <text x="395" y="2284" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Offset grid</text>
+    <text x="585" y="2284" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Mosaic</text>
+    <text x="775" y="2284" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Interlocking rings</text>
+    <text x="965" y="2284" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Diamond lattice</text>
+    <text x="1155" y="2284" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Nested components</text>
+    <text x="1345" y="2284" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Honeycomb</text>
+    <text x="1535" y="2284" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Dash row</text>
+    <text x="2160" y="1860" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" fill="#9a9a9a" text-anchor="start">08</text>
+    <text id="s08-title" x="2200" y="1860" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" fill="#000000" text-anchor="start">Negative Space</text>
+    <text x="4040" y="1860" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#777777" text-anchor="end">18 components</text>
+    <text x="2245" y="2072" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Circle cut from square</text>
+    <text x="2435" y="2072" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Square cut from circle</text>
+    <text x="2625" y="2072" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Triangle cut from circle</text>
+    <text x="2815" y="2072" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Triangle cut from square</text>
+    <text x="3005" y="2072" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Ring cut-out</text>
+    <text x="3195" y="2072" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Overlapping negative</text>
+    <text x="3385" y="2072" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Interlocking squares</text>
+    <text x="3575" y="2072" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Triple negative</text>
+    <text x="3765" y="2072" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Geometric holes</text>
+    <text x="3955" y="2072" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Split circle</text>
+    <text x="2245" y="2284" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Split square</text>
+    <text x="2435" y="2284" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Quartered square</text>
+    <text x="2625" y="2284" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Banded circle</text>
+    <text x="2815" y="2284" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Hexagon frame</text>
+    <text x="3005" y="2284" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Star cut from circle</text>
+    <text x="3195" y="2284" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Keyhole</text>
+    <text x="3385" y="2284" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Slot cut-out</text>
+    <text x="3575" y="2284" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Concentric cut-outs</text>
+    <text x="120" y="2380" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" fill="#9a9a9a" text-anchor="start">09</text>
+    <text id="s09-title" x="160" y="2380" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" fill="#000000" text-anchor="start">Curves and Organic Geometry</text>
+    <text x="2000" y="2380" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#777777" text-anchor="end">17 components</text>
+    <text x="205" y="2592" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">S-curve</text>
+    <text x="395" y="2592" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Wave</text>
+    <text x="585" y="2592" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Double wave</text>
+    <text x="775" y="2592" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Spiral</text>
+    <text x="965" y="2592" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Infinity</text>
+    <text x="1155" y="2592" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Lens</text>
+    <text x="1345" y="2592" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Eye</text>
+    <text x="1535" y="2592" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Rounded diamond</text>
+    <text x="1725" y="2592" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Reuleaux triangle</text>
+    <text x="1915" y="2592" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Rounded triangle</text>
+    <text x="205" y="2804" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Leaf</text>
+    <text x="395" y="2804" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Teardrop</text>
+    <text x="585" y="2804" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Quatrefoil</text>
+    <text x="775" y="2804" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Concave diamond</text>
+    <text x="965" y="2804" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">S-split circle</text>
+    <text x="1155" y="2804" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Twisted ribbon</text>
+    <text x="1345" y="2804" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Bell curve</text>
+    <text x="2160" y="2380" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" fill="#9a9a9a" text-anchor="start">10</text>
+    <text id="s10-title" x="2200" y="2380" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" fill="#000000" text-anchor="start">Construction Grids</text>
+    <text x="4040" y="2380" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#777777" text-anchor="end">16 components</text>
+    <text x="2245" y="2592" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">2 × 2 grid</text>
+    <text x="2435" y="2592" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">3 × 3 grid</text>
+    <text x="2625" y="2592" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">4 × 4 grid</text>
+    <text x="2815" y="2592" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">5 × 5 grid</text>
+    <text x="3005" y="2592" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Circular grid</text>
+    <text x="3195" y="2592" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Radial grid 15°</text>
+    <text x="3385" y="2592" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Triangular grid</text>
+    <text x="3575" y="2592" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Isometric grid</text>
+    <text x="3765" y="2592" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Diagonal grid</text>
+    <text x="3955" y="2592" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Golden ratio rectangle</text>
+    <text x="2245" y="2804" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Golden ratio circles</text>
+    <text x="2435" y="2804" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Circle + square alignment</text>
+    <text x="2625" y="2804" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Hexagonal construction</text>
+    <text x="2815" y="2804" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Octagonal construction</text>
+    <text x="3005" y="2804" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Pentagon construction</text>
+    <text x="3195" y="2804" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Dot grid</text>
+    <text x="120" y="2900" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" fill="#9a9a9a" text-anchor="start">11</text>
+    <text id="s11-title" x="160" y="2900" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" fill="#000000" text-anchor="start">Combination Examples</text>
+    <text x="2000" y="2900" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#777777" text-anchor="end">18 components</text>
+    <text x="205" y="3112" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Circle + square</text>
+    <text x="395" y="3112" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Triangle + circle</text>
+    <text x="585" y="3112" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Circle chain</text>
+    <text x="775" y="3112" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Concentric + cross lines</text>
+    <text x="965" y="3112" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Circle + speed lines</text>
+    <text x="1155" y="3112" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Square + diagonal</text>
+    <text x="1345" y="3112" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Circle + triangle cut-out</text>
+    <text x="1535" y="3112" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Three-circle trefoil</text>
+    <text x="1725" y="3112" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Hexagon + circle cut-out</text>
+    <text x="1915" y="3112" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Quarter-circle pinwheel</text>
+    <text x="205" y="3324" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Rainbow arches</text>
+    <text x="395" y="3324" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Diamond in circle</text>
+    <text x="585" y="3324" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Offset half circles</text>
+    <text x="775" y="3324" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Ring + bar</text>
+    <text x="965" y="3324" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Grid + circle</text>
+    <text x="1155" y="3324" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Triangle stack</text>
+    <text x="1345" y="3324" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Capsule + dot</text>
+    <text x="1535" y="3324" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">Split diamond</text>
+    <text id="notes-title" x="2160" y="2900" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" fill="#000000" text-anchor="start">Legend and Notes</text>
+    <text x="2270" y="2972" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="normal" fill="#333333" text-anchor="start">Outline  ·  2 px black stroke, no fill</text>
+    <text x="2270" y="3032" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="normal" fill="#333333" text-anchor="start">Filled  ·  #9A9A9A fill with 2 px black stroke</text>
+    <text x="2270" y="3092" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="normal" fill="#333333" text-anchor="start">Cut-out  ·  even-odd compound path (real hole, not a white shape)</text>
+    <text x="2270" y="3152" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="normal" fill="#333333" text-anchor="start">Construction guide  ·  0.75 px #8C8C8C stroke</text>
+    <text x="2270" y="3212" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="normal" fill="#333333" text-anchor="start">Key construction line  ·  1 px black stroke</text>
+    <text x="3060" y="2972" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#555555" text-anchor="start">—  Every component is its own named group (ID pattern c&lt;section&gt;-&lt;index&gt;-&lt;name&gt;).</text>
+    <text x="3060" y="3006" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#555555" text-anchor="start">—  Each section is a top-level layer; lock the 'background' layer to click components freely.</text>
+    <text x="3060" y="3040" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#555555" text-anchor="start">—  Components are drawn in a 120 × 120 unit box centred in each tile.</text>
+    <text x="3060" y="3074" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#555555" text-anchor="start">—  Use Pathfinder (Unite, Minus Front, Intersect, Divide) to merge or subtract pieces.</text>
+    <text x="3060" y="3108" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#555555" text-anchor="start">—  Release compound paths (Object &gt; Compound Path &gt; Release) to edit holes separately.</text>
+  </g>
+  <g id="s01-circles-and-rings">
+    <g id="c01-01-circle" transform="translate(205 407)">
+      <circle cx="0" cy="0" r="60" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c01-02-circle-filled" transform="translate(395 407)">
+      <circle cx="0" cy="0" r="60" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c01-03-circle-sizes" transform="translate(585 407)">
+      <circle cx="-50" cy="0" r="10" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="-18" cy="0" r="18" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="32" cy="0" r="28" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c01-04-concentric-circles" transform="translate(775 407)">
+      <circle cx="0" cy="0" r="20" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="0" r="40" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="0" r="60" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c01-05-thin-ring" transform="translate(965 407)">
+      <path d="M-60,0 A60 60 0 1 0 60,0 A60 60 0 1 0 -60,0 Z M-54,0 A54 54 0 1 0 54,0 A54 54 0 1 0 -54,0 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c01-06-thick-ring" transform="translate(1155 407)">
+      <path d="M-60,0 A60 60 0 1 0 60,0 A60 60 0 1 0 -60,0 Z M-34,0 A34 34 0 1 0 34,0 A34 34 0 1 0 -34,0 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c01-07-nested-circles" transform="translate(1345 407)">
+      <circle cx="0" cy="0" r="60" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="18" r="42" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="36" r="24" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c01-08-offset-circles" transform="translate(1535 407)">
+      <circle cx="0" cy="0" r="60" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="22" cy="-16" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c01-09-overlapping-circles" transform="translate(1725 407)">
+      <circle cx="-22" cy="0" r="38" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="22" cy="0" r="38" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c01-10-tangent-circles" transform="translate(1915 407)">
+      <circle cx="-30" cy="0" r="30" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="30" cy="0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c01-11-circle-intersection" transform="translate(205 619)">
+      <path d="M0,-34.64 A40 40 0 0 1 0,34.64 A40 40 0 0 1 0,-34.64 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="-20" cy="0" r="40" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="20" cy="0" r="40" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c01-12-vesica-piscis" transform="translate(395 619)">
+      <circle cx="-22.5" cy="0" r="45" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="22.5" cy="0" r="45" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="0" y1="-39" x2="0" y2="39" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-22.5" y1="0" x2="22.5" y2="0" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c01-13-circular-cut-out" transform="translate(585 619)">
+      <path d="M-60,0 A60 60 0 1 0 60,0 A60 60 0 1 0 -60,0 Z M-4,-18 A22 22 0 1 0 40,-18 A22 22 0 1 0 -4,-18 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c01-14-crescent" transform="translate(775 619)">
+      <path d="M3.72,-59.88 A60 60 0 1 0 50.14,32.95 A52 52 0 1 1 3.72,-59.88 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c01-15-triple-overlap" transform="translate(965 619)">
+      <circle cx="0" cy="-14" r="32" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="17.32" cy="16" r="32" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="-17.32" cy="16" r="32" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c01-16-circle-row" transform="translate(1155 619)">
+      <circle cx="-45" cy="0" r="15" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="-15" cy="0" r="15" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="15" cy="0" r="15" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="45" cy="0" r="15" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c01-17-ring-and-dot" transform="translate(1345 619)">
+      <path d="M-60,0 A60 60 0 1 0 60,0 A60 60 0 1 0 -60,0 Z M-48,0 A48 48 0 1 0 48,0 A48 48 0 1 0 -48,0 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="0" r="16" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+  </g>
+  <g id="s02-squares-and-rectangles">
+    <g id="c02-01-square" transform="translate(2245 407)">
+      <rect x="-60" y="-60" width="120" height="120" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c02-02-square-filled" transform="translate(2435 407)">
+      <rect x="-60" y="-60" width="120" height="120" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c02-03-square-sizes" transform="translate(2625 407)">
+      <rect x="-60" y="8" width="20" height="20" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-36" y="-8" width="36" height="36" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="4" y="-28" width="56" height="56" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c02-04-rectangle-2-1" transform="translate(2815 407)">
+      <rect x="-60" y="-30" width="120" height="60" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c02-05-rectangle-3-1" transform="translate(3005 407)">
+      <rect x="-60" y="-20" width="120" height="40" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c02-06-rectangle-1-2" transform="translate(3195 407)">
+      <rect x="-30" y="-60" width="60" height="120" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c02-07-golden-rectangle" transform="translate(3385 407)">
+      <rect x="-60" y="-37.08" width="120" height="74.16" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="14.16" y1="-37.08" x2="14.16" y2="37.08" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+    </g>
+    <g id="c02-08-rounded-square" transform="translate(3575 407)">
+      <rect x="-58" y="-58" width="116" height="116" rx="24" ry="24" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c02-09-rounded-rectangle" transform="translate(3765 407)">
+      <rect x="-60" y="-36" width="120" height="72" rx="16" ry="16" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c02-10-nested-squares" transform="translate(3955 407)">
+      <rect x="-60" y="-60" width="120" height="120" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-40" y="-40" width="80" height="80" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-20" y="-20" width="40" height="40" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c02-11-square-in-diamond" transform="translate(2245 619)">
+      <rect x="-60" y="-60" width="120" height="120" fill="none" stroke="#000000" stroke-width="2"/>
+      <polygon points="0,-60 60,0 0,60 -60,0" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-30" y="-30" width="60" height="60" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c02-12-offset-squares" transform="translate(2435 619)">
+      <rect x="-60" y="-60" width="70" height="70" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-35" y="-35" width="70" height="70" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-10" y="-10" width="70" height="70" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c02-13-overlapping-squares" transform="translate(2625 619)">
+      <rect x="-20" y="-20" width="40" height="40" fill="#9a9a9a" stroke="none"/>
+      <rect x="-60" y="-60" width="80" height="80" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-20" y="-20" width="80" height="80" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c02-14-square-cut-out" transform="translate(2815 619)">
+      <path d="M-60,-60 H60 V60 H-60 Z M-30,-30 H30 V30 H-30 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c02-15-circle-in-square" transform="translate(3005 619)">
+      <rect x="-60" y="-60" width="120" height="120" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="0" r="60" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c02-16-square-in-circle" transform="translate(3195 619)">
+      <circle cx="0" cy="0" r="60" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-42.43" y="-42.43" width="84.85" height="84.85" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c02-17-square-plus-circle" transform="translate(3385 619)">
+      <rect x="-60" y="-20" width="80" height="80" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="20" cy="-20" r="40" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c02-18-leaf-square" transform="translate(3575 619)">
+      <path d="M-60,0 A60 60 0 0 1 0,-60 L60,-60 L60,0 A60 60 0 0 1 0,60 L-60,60 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+  </g>
+  <g id="s03-polygons">
+    <g id="c03-01-triangle" transform="translate(205 927)">
+      <polygon points="0,-60 50,60 -50,60" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c03-02-equilateral-triangle" transform="translate(395 927)">
+      <polygon points="0,-49.5 57.16,49.5 -57.16,49.5" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c03-03-equilateral-filled" transform="translate(585 927)">
+      <polygon points="0,-49.5 57.16,49.5 -57.16,49.5" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c03-04-inverted-triangle" transform="translate(775 927)">
+      <polygon points="0,49.5 -57.16,-49.5 57.16,-49.5" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c03-05-right-triangle" transform="translate(965 927)">
+      <polygon points="-55,-55 -55,55 55,55" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c03-06-pentagon" transform="translate(1155 927)">
+      <polygon points="0,-56 58.97,-13.16 36.44,56.16 -36.44,56.16 -58.97,-13.16" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c03-07-pentagon-filled" transform="translate(1345 927)">
+      <polygon points="0,-56 58.97,-13.16 36.44,56.16 -36.44,56.16 -58.97,-13.16" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c03-08-hexagon" transform="translate(1535 927)">
+      <polygon points="62,0 31,53.69 -31,53.69 -62,0 -31,-53.69 31,-53.69" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c03-09-hexagon-filled" transform="translate(1725 927)">
+      <polygon points="0,-62 53.69,-31 53.69,31 0,62 -53.69,31 -53.69,-31" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c03-10-octagon" transform="translate(1915 927)">
+      <polygon points="59.13,24.49 24.49,59.13 -24.49,59.13 -59.13,24.49 -59.13,-24.49 -24.49,-59.13 24.49,-59.13 59.13,-24.49" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c03-11-octagon-filled" transform="translate(205 1139)">
+      <polygon points="59.13,24.49 24.49,59.13 -24.49,59.13 -59.13,24.49 -59.13,-24.49 -24.49,-59.13 24.49,-59.13 59.13,-24.49" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c03-12-diamond" transform="translate(395 1139)">
+      <polygon points="0,-62 44,0 0,62 -44,0" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c03-13-diamond-filled" transform="translate(585 1139)">
+      <polygon points="0,-60 60,0 0,60 -60,0" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c03-14-rhombus-60deg" transform="translate(775 1139)">
+      <polygon points="-60,0 0,-34.64 60,0 0,34.64" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c03-15-kite" transform="translate(965 1139)">
+      <polygon points="0,-60 42,-18 0,60 -42,-18" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c03-16-trapezoid" transform="translate(1155 1139)">
+      <polygon points="-36,-40 36,-40 60,40 -60,40" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c03-17-parallelogram" transform="translate(1345 1139)">
+      <polygon points="-30,-40 60,-40 30,40 -60,40" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c03-18-nested-triangles" transform="translate(1535 1139)">
+      <polygon points="0,-48 55.43,48 -55.43,48" fill="none" stroke="#000000" stroke-width="2"/>
+      <polygon points="27.71,0 0,48 -27.71,0" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+  </g>
+  <g id="s04-stars-and-radial-shapes">
+    <g id="c04-01-five-point-star" transform="translate(2245 927)">
+      <polygon points="0,-56 14.69,-14.23 58.97,-13.16 23.78,13.73 36.44,56.16 0,31 -36.44,56.16 -23.78,13.73 -58.97,-13.16 -14.69,-14.23" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c04-02-five-point-star-filled" transform="translate(2435 927)">
+      <polygon points="0,-56 14.69,-14.23 58.97,-13.16 23.78,13.73 36.44,56.16 0,31 -36.44,56.16 -23.78,13.73 -58.97,-13.16 -14.69,-14.23" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c04-03-pentagram" transform="translate(2625 927)">
+      <polygon points="0,-56 36.44,56.16 -58.97,-13.16 58.97,-13.16 -36.44,56.16" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c04-04-six-point-star" transform="translate(2815 927)">
+      <polygon points="0,-62 53.69,31 -53.69,31" fill="none" stroke="#000000" stroke-width="2"/>
+      <polygon points="0,62 -53.69,-31 53.69,-31" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c04-05-six-point-star-filled" transform="translate(3005 927)">
+      <polygon points="0,-62 18,-31.18 53.69,-31 36,0 53.69,31 18,31.18 0,62 -18,31.18 -53.69,31 -36,0 -53.69,-31 -18,-31.18" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c04-06-eight-point-star" transform="translate(3195 927)">
+      <polygon points="0,-62 9.95,-24.02 43.84,-43.84 24.02,-9.95 62,0 24.02,9.95 43.84,43.84 9.95,24.02 0,62 -9.95,24.02 -43.84,43.84 -24.02,9.95 -62,0 -24.02,-9.95 -43.84,-43.84 -9.95,-24.02" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c04-07-eight-point-star-filled" transform="translate(3385 927)">
+      <polygon points="0,-62 16.84,-40.65 43.84,-43.84 40.65,-16.84 62,0 40.65,16.84 43.84,43.84 16.84,40.65 0,62 -16.84,40.65 -43.84,43.84 -40.65,16.84 -62,0 -40.65,-16.84 -43.84,-43.84 -16.84,-40.65" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c04-08-octagram" transform="translate(3575 927)">
+      <rect x="-44" y="-44" width="88" height="88" fill="none" stroke="#000000" stroke-width="2"/>
+      <polygon points="0,-62 62,0 0,62 -62,0" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c04-09-ten-point-star" transform="translate(3765 927)">
+      <polygon points="0,-62 12.36,-38.04 36.44,-50.16 32.36,-23.51 58.97,-19.16 40,0 58.97,19.16 32.36,23.51 36.44,50.16 12.36,38.04 0,62 -12.36,38.04 -36.44,50.16 -32.36,23.51 -58.97,19.16 -40,0 -58.97,-19.16 -32.36,-23.51 -36.44,-50.16 -12.36,-38.04" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c04-10-twelve-point-burst" transform="translate(3955 927)">
+      <polygon points="0,-62 12.42,-46.36 31,-53.69 33.94,-33.94 53.69,-31 46.36,-12.42 62,0 46.36,12.42 53.69,31 33.94,33.94 31,53.69 12.42,46.36 0,62 -12.42,46.36 -31,53.69 -33.94,33.94 -53.69,31 -46.36,12.42 -62,0 -46.36,-12.42 -53.69,-31 -33.94,-33.94 -31,-53.69 -12.42,-46.36" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c04-11-four-point-star" transform="translate(2245 1139)">
+      <polygon points="0,-62 11.31,-11.31 62,0 11.31,11.31 0,62 -11.31,11.31 -62,0 -11.31,-11.31" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c04-12-radial-divisions" transform="translate(2435 1139)">
+      <circle cx="0" cy="0" r="60" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="60" y1="0" x2="-60" y2="0" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="42.43" y1="42.43" x2="-42.43" y2="-42.43" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="0" y1="60" x2="0" y2="-60" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-42.43" y1="42.43" x2="42.43" y2="-42.43" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c04-13-spoked-wheel" transform="translate(2625 1139)">
+      <path d="M-60,0 A60 60 0 1 0 60,0 A60 60 0 1 0 -60,0 Z M-52,0 A52 52 0 1 0 52,0 A52 52 0 1 0 -52,0 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <line x1="10" y1="0" x2="52" y2="0" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="7.07" y1="7.07" x2="36.77" y2="36.77" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="0" y1="10" x2="0" y2="52" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-7.07" y1="7.07" x2="-36.77" y2="36.77" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-10" y1="0" x2="-52" y2="0" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-7.07" y1="-7.07" x2="-36.77" y2="-36.77" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="0" y1="-10" x2="0" y2="-52" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="7.07" y1="-7.07" x2="36.77" y2="-36.77" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="0" r="10" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c04-14-radial-grid" transform="translate(2815 1139)">
+      <circle cx="0" cy="0" r="20" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="0" r="40" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="0" r="60" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="20" y1="0" x2="60" y2="0" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="17.32" y1="10" x2="51.96" y2="30" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="10" y1="17.32" x2="30" y2="51.96" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="0" y1="20" x2="0" y2="60" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-10" y1="17.32" x2="-30" y2="51.96" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-17.32" y1="10" x2="-51.96" y2="30" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-20" y1="0" x2="-60" y2="0" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-17.32" y1="-10" x2="-51.96" y2="-30" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-10" y1="-17.32" x2="-30" y2="-51.96" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="0" y1="-20" x2="0" y2="-60" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="10" y1="-17.32" x2="30" y2="-51.96" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="17.32" y1="-10" x2="51.96" y2="-30" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c04-15-petal-rosette" transform="translate(3005 1139)">
+      <path d="M0,0 A40 40 0 0 1 0,-60 A40 40 0 0 1 0,0 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <path d="M0,0 A40 40 0 0 1 51.96,-30 A40 40 0 0 1 0,0 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <path d="M0,0 A40 40 0 0 1 51.96,30 A40 40 0 0 1 0,0 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <path d="M0,0 A40 40 0 0 1 0,60 A40 40 0 0 1 0,0 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <path d="M0,0 A40 40 0 0 1 -51.96,30 A40 40 0 0 1 0,0 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <path d="M0,0 A40 40 0 0 1 -51.96,-30 A40 40 0 0 1 0,0 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c04-16-seed-circles" transform="translate(3195 1139)">
+      <circle cx="0" cy="0" r="60" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="-30" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="25.98" cy="-15" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="25.98" cy="15" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="30" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="-25.98" cy="15" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="-25.98" cy="-15" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c04-17-asterisk" transform="translate(3385 1139)">
+      <polygon points="8,-60 8,60 -8,60 -8,-60" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="-47.96,-36.93 55.96,23.07 47.96,36.93 -55.96,-23.07" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="55.96,-23.07 -47.96,36.93 -55.96,23.07 47.96,-36.93" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c04-18-radial-triangles" transform="translate(3575 1139)">
+      <polygon points="0,-62 5.32,-21.35 -5.32,-21.35" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="43.84,-43.84 18.86,-11.33 11.33,-18.86" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="62,0 21.35,5.32 21.35,-5.32" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="43.84,43.84 11.33,18.86 18.86,11.33" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="0,62 -5.32,21.35 5.32,21.35" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="-43.84,43.84 -18.86,11.33 -11.33,18.86" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="-62,0 -21.35,-5.32 -21.35,5.32" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="-43.84,-43.84 -11.33,-18.86 -18.86,-11.33" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="0" r="14" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+  </g>
+  <g id="s05-circular-segments">
+    <g id="c05-01-quarter-circle" transform="translate(205 1447)">
+      <path d="M-55,55 L-55,-55 A110 110 0 0 1 55,55 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c05-02-half-circle" transform="translate(395 1447)">
+      <path d="M0,30 L-60,30 A60 60 0 0 1 60,30 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c05-03-semicircle-outline" transform="translate(585 1447)">
+      <path d="M-30,0 L-30,-60 A60 60 0 0 1 -30,60 Z" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c05-04-sector-60deg" transform="translate(775 1447)">
+      <path d="M0,50 L-50,-36.6 A100 100 0 0 1 50,-36.6 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c05-05-sector-120deg" transform="translate(965 1447)">
+      <path d="M0,30 L-58.89,-4 A68 68 0 0 1 58.89,-4 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c05-06-arc-90deg" transform="translate(1155 1447)">
+      <path d="M-45,-45 A90 90 0 0 1 45,45" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c05-07-arc-120deg" transform="translate(1345 1447)">
+      <path d="M-51.96,-6 A60 60 0 0 1 51.96,-6" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c05-08-arc-180deg" transform="translate(1535 1447)">
+      <path d="M-60,30 A60 60 0 0 1 60,30" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c05-09-arc-270deg" transform="translate(1725 1447)">
+      <path d="M60,0 A60 60 0 1 1 0,-60" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c05-10-open-arcs" transform="translate(1915 1447)">
+      <path d="M60,0 A60 60 0 1 1 0,-60" fill="none" stroke="#000000" stroke-width="2"/>
+      <path d="M0,45 A45 45 0 1 1 45,0" fill="none" stroke="#000000" stroke-width="2"/>
+      <path d="M-30,0 A30 30 0 1 1 0,30" fill="none" stroke="#000000" stroke-width="2"/>
+      <path d="M0,-15 A15 15 0 1 1 -15,0" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c05-11-double-arc" transform="translate(205 1659)">
+      <path d="M-60,24 A60 60 0 0 1 60,24" fill="none" stroke="#000000" stroke-width="2"/>
+      <path d="M-46,24 A46 46 0 0 1 46,24" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c05-12-ring-segment-90deg" transform="translate(395 1659)">
+      <path d="M-50,-60 A110 110 0 0 1 60,50 L20,50 A70 70 0 0 0 -50,-20 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c05-13-arch" transform="translate(585 1659)">
+      <path d="M-60,30 A60 60 0 0 1 60,30 L36,30 A36 36 0 0 0 -36,30 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c05-14-quarter-ring" transform="translate(775 1659)">
+      <path d="M-30,-30 A60 60 0 0 1 30,30 L6,30 A36 36 0 0 0 -30,-6 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c05-15-circular-wedge" transform="translate(965 1659)">
+      <path d="M0,60 L-31.06,-55.91 A120 120 0 0 1 31.06,-55.91 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c05-16-fan" transform="translate(1155 1659)">
+      <path d="M0,30 L-62,30 A62 62 0 0 1 -53.69,-1 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <path d="M0,30 L-53.69,-1 A62 62 0 0 1 -31,-23.69 Z" fill="none" stroke="#000000" stroke-width="2"/>
+      <path d="M0,30 L-31,-23.69 A62 62 0 0 1 0,-32 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <path d="M0,30 L0,-32 A62 62 0 0 1 31,-23.69 Z" fill="none" stroke="#000000" stroke-width="2"/>
+      <path d="M0,30 L31,-23.69 A62 62 0 0 1 53.69,-1 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <path d="M0,30 L53.69,-1 A62 62 0 0 1 62,30 Z" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c05-17-segmented-ring" transform="translate(1345 1659)">
+      <path d="M5.23,-59.77 A60 60 0 0 1 59.77,-5.23 L41.84,-3.66 A42 42 0 0 0 3.66,-41.84 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <path d="M59.77,5.23 A60 60 0 0 1 5.23,59.77 L3.66,41.84 A42 42 0 0 0 41.84,3.66 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <path d="M-5.23,59.77 A60 60 0 0 1 -59.77,5.23 L-41.84,3.66 A42 42 0 0 0 -3.66,41.84 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <path d="M-59.77,-5.23 A60 60 0 0 1 -5.23,-59.77 L-3.66,-41.84 A42 42 0 0 0 -41.84,-3.66 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c05-18-pie-270deg" transform="translate(1535 1659)">
+      <path d="M0,0 L60,0 A60 60 0 1 1 0,-60 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+  </g>
+  <g id="s06-geometric-lines-and-structures">
+    <g id="c06-01-horizontal-lines" transform="translate(2245 1447)">
+      <line x1="-60" y1="-48" x2="60" y2="-48" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-60" y1="-24" x2="60" y2="-24" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-60" y1="0" x2="60" y2="0" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-60" y1="24" x2="60" y2="24" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-60" y1="48" x2="60" y2="48" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c06-02-vertical-lines" transform="translate(2435 1447)">
+      <line x1="-48" y1="-60" x2="-48" y2="60" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-24" y1="-60" x2="-24" y2="60" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="0" y1="-60" x2="0" y2="60" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="24" y1="-60" x2="24" y2="60" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="48" y1="-60" x2="48" y2="60" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c06-03-diagonal-lines" transform="translate(2625 1447)">
+      <line x1="-60" y1="-20" x2="-20" y2="-60" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-60" y1="20" x2="20" y2="-60" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-60" y1="60" x2="60" y2="-60" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-20" y1="60" x2="60" y2="-20" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="20" y1="60" x2="60" y2="20" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c06-04-30deg-lines" transform="translate(2815 1447)">
+      <line x1="-60" y1="56" x2="60" y2="56" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-63.23" y1="2.48" x2="37.23" y2="-55.52" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-50.23" y1="25" x2="50.23" y2="-33" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-37.23" y1="47.52" x2="63.23" y2="-10.48" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c06-05-45deg-lines" transform="translate(3005 1447)">
+      <line x1="-60" y1="56" x2="60" y2="56" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-59.4" y1="18.63" x2="22.63" y2="-63.4" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-41.01" y1="37.01" x2="41.01" y2="-45.01" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-22.63" y1="55.4" x2="59.4" y2="-26.63" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c06-06-60deg-lines" transform="translate(3195 1447)">
+      <line x1="-60" y1="56" x2="60" y2="56" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-51.52" y1="33.23" x2="6.48" y2="-67.23" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-29" y1="46.23" x2="29" y2="-54.23" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-6.48" y1="59.23" x2="51.52" y2="-41.23" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c06-07-cross" transform="translate(3385 1447)">
+      <polygon points="-15,-60 15,-60 15,-15 60,-15 60,15 15,15 15,60 -15,60 -15,15 -60,15 -60,-15 -15,-15" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c06-08-diagonal-cross" transform="translate(3575 1447)">
+      <path d="M-43.84,-62.23 L62.23,43.84 L43.84,62.23 L-62.23,-43.84 Z M-62.23,43.84 L43.84,-62.23 L62.23,-43.84 L-43.84,62.23 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c06-09-t-shape" transform="translate(3765 1447)">
+      <polygon points="-60,-60 60,-60 60,-30 15,-30 15,60 -15,60 -15,-30 -60,-30" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c06-10-l-shape" transform="translate(3955 1447)">
+      <polygon points="-50,-60 -20,-60 -20,30 50,30 50,60 -50,60" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c06-11-u-shape" transform="translate(2245 1659)">
+      <polygon points="-55,-60 -25,-60 -25,30 25,30 25,-60 55,-60 55,60 -55,60" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c06-12-corner-brackets" transform="translate(2435 1659)">
+      <polyline points="-60,-30 -60,-60 -30,-60" fill="none" stroke="#000000" stroke-width="2"/>
+      <polyline points="30,-60 60,-60 60,-30" fill="none" stroke="#000000" stroke-width="2"/>
+      <polyline points="60,30 60,60 30,60" fill="none" stroke="#000000" stroke-width="2"/>
+      <polyline points="-30,60 -60,60 -60,30" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c06-13-chevron" transform="translate(2625 1659)">
+      <polygon points="-60,-45 0,15 60,-45 60,-15 0,45 -60,-15" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c06-14-double-chevron" transform="translate(2815 1659)">
+      <polygon points="-25,-50 15,0 -25,50 -45,50 -5,0 -45,-50" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="20,-50 60,0 20,50 0,50 40,0 0,-50" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c06-15-arrow" transform="translate(3005 1659)">
+      <polygon points="-60,-14 10,-14 10,-40 60,0 10,40 10,14 -60,14" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c06-16-line-arrow" transform="translate(3195 1659)">
+      <line x1="-60" y1="0" x2="58" y2="0" fill="none" stroke="#000000" stroke-width="2"/>
+      <polyline points="26,-32 58,0 26,32" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c06-17-parallel-bars" transform="translate(3385 1659)">
+      <rect x="-55" y="-60" width="22" height="120" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <rect x="-11" y="-60" width="22" height="120" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <rect x="33" y="-60" width="22" height="120" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c06-18-diagonal-bars" transform="translate(3575 1659)">
+      <polygon points="-58,60 -40,60 0,-60 -18,-60" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="-30,60 -12,60 28,-60 10,-60" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="-2,60 16,60 56,-60 38,-60" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c06-19-steps" transform="translate(3765 1659)">
+      <polygon points="-60,60 -60,20 -20,20 -20,-20 20,-20 20,-60 60,-60 60,60" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c06-20-zigzag" transform="translate(3955 1659)">
+      <polyline points="-60,20 -40,-20 -20,20 0,-20 20,20 40,-20 60,20" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+  </g>
+  <g id="s07-modular-components">
+    <g id="c07-01-capsule" transform="translate(205 1967)">
+      <rect x="-60" y="-25" width="120" height="50" rx="25" ry="25" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c07-02-pill-filled" transform="translate(395 1967)">
+      <rect x="-60" y="-18" width="120" height="36" rx="18" ry="18" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c07-03-vertical-pill" transform="translate(585 1967)">
+      <rect x="-22" y="-60" width="44" height="120" rx="22" ry="22" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c07-04-pill-stack" transform="translate(775 1967)">
+      <rect x="-60" y="-48" width="120" height="24" rx="12" ry="12" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <rect x="-60" y="-12" width="120" height="24" rx="12" ry="12" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <rect x="-60" y="24" width="120" height="24" rx="12" ry="12" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c07-05-repeated-circles" transform="translate(965 1967)">
+      <circle cx="-40" cy="-40" r="14" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="-40" r="14" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="40" cy="-40" r="14" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="-40" cy="0" r="14" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="0" r="14" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="40" cy="0" r="14" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="-40" cy="40" r="14" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="40" r="14" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="40" cy="40" r="14" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c07-06-repeated-squares" transform="translate(1155 1967)">
+      <rect x="-56" y="-56" width="28" height="28" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-14" y="-56" width="28" height="28" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="28" y="-56" width="28" height="28" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-56" y="-14" width="28" height="28" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-14" y="-14" width="28" height="28" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="28" y="-14" width="28" height="28" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-56" y="28" width="28" height="28" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-14" y="28" width="28" height="28" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="28" y="28" width="28" height="28" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c07-07-three-circles" transform="translate(1345 1967)">
+      <circle cx="0" cy="-23.02" r="26" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="26" cy="22.01" r="26" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="-26" cy="22.01" r="26" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c07-08-three-part-ring" transform="translate(1535 1967)">
+      <path d="M4.19,-59.85 A60 60 0 0 1 53.93,26.3 L26.96,13.15 A30 30 0 0 0 2.09,-29.93 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <path d="M49.74,33.55 A60 60 0 0 1 -49.74,33.55 L-24.87,16.78 A30 30 0 0 0 24.87,16.78 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <path d="M-53.93,26.3 A60 60 0 0 1 -4.19,-59.85 L-2.09,-29.93 A30 30 0 0 0 -26.96,13.15 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c07-09-four-squares" transform="translate(1725 1967)">
+      <rect x="-60" y="-60" width="54" height="54" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <rect x="6" y="-60" width="54" height="54" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <rect x="-60" y="6" width="54" height="54" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <rect x="6" y="6" width="54" height="54" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c07-10-four-circles" transform="translate(1915 1967)">
+      <circle cx="-30" cy="-30" r="28" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="30" cy="-30" r="28" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="-30" cy="30" r="28" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="30" cy="30" r="28" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c07-11-four-triangles" transform="translate(205 2179)">
+      <polygon points="-60,-60 -4,-60 -60,-4" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="60,-60 60,-4 4,-60" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="60,60 4,60 60,4" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="-60,60 -60,4 -4,60" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c07-12-offset-grid" transform="translate(395 2179)">
+      <rect x="-60" y="-60" width="36" height="24" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-18" y="-60" width="36" height="24" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="24" y="-60" width="36" height="24" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-60" y="-28" width="15" height="24" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-39" y="-28" width="36" height="24" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="3" y="-28" width="36" height="24" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="45" y="-28" width="15" height="24" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-60" y="4" width="36" height="24" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-18" y="4" width="36" height="24" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="24" y="4" width="36" height="24" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-60" y="36" width="15" height="24" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-39" y="36" width="36" height="24" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="3" y="36" width="36" height="24" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="45" y="36" width="15" height="24" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c07-13-mosaic" transform="translate(585 2179)">
+      <path d="M-60,0 L-60,-60 A60 60 0 0 1 0,0 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <path d="M0,-60 L60,-60 A60 60 0 0 1 0,0 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <path d="M0,60 L-60,60 A60 60 0 0 1 0,0 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <path d="M60,0 L60,60 A60 60 0 0 1 0,0 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <rect x="-60" y="-60" width="60" height="60" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="0" y="-60" width="60" height="60" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-60" y="0" width="60" height="60" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="0" y="0" width="60" height="60" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c07-14-interlocking-rings" transform="translate(775 2179)">
+      <path d="M-60,0 A40 40 0 1 0 20,0 A40 40 0 1 0 -60,0 Z M-48,0 A28 28 0 1 0 8,0 A28 28 0 1 0 -48,0 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="20" cy="0" r="40" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="20" cy="0" r="28" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c07-15-diamond-lattice" transform="translate(965 2179)">
+      <polygon points="-45,-60 -30,-45 -45,-30 -60,-45" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="-15,-60 0,-45 -15,-30 -30,-45" fill="none" stroke="#000000" stroke-width="2"/>
+      <polygon points="15,-60 30,-45 15,-30 0,-45" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="45,-60 60,-45 45,-30 30,-45" fill="none" stroke="#000000" stroke-width="2"/>
+      <polygon points="-45,-30 -30,-15 -45,0 -60,-15" fill="none" stroke="#000000" stroke-width="2"/>
+      <polygon points="-15,-30 0,-15 -15,0 -30,-15" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="15,-30 30,-15 15,0 0,-15" fill="none" stroke="#000000" stroke-width="2"/>
+      <polygon points="45,-30 60,-15 45,0 30,-15" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="-45,0 -30,15 -45,30 -60,15" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="-15,0 0,15 -15,30 -30,15" fill="none" stroke="#000000" stroke-width="2"/>
+      <polygon points="15,0 30,15 15,30 0,15" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="45,0 60,15 45,30 30,15" fill="none" stroke="#000000" stroke-width="2"/>
+      <polygon points="-45,30 -30,45 -45,60 -60,45" fill="none" stroke="#000000" stroke-width="2"/>
+      <polygon points="-15,30 0,45 -15,60 -30,45" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="15,30 30,45 15,60 0,45" fill="none" stroke="#000000" stroke-width="2"/>
+      <polygon points="45,30 60,45 45,60 30,45" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c07-16-nested-components" transform="translate(1155 2179)">
+      <circle cx="0" cy="0" r="60" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-42.43" y="-42.43" width="84.85" height="84.85" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="0" r="42.43" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-30" y="-30" width="60" height="60" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c07-17-honeycomb" transform="translate(1345 2179)">
+      <polygon points="0,-20 17.32,-10 17.32,10 0,20 -17.32,10 -17.32,-10" fill="none" stroke="#000000" stroke-width="2"/>
+      <polygon points="34.64,-20 51.96,-10 51.96,10 34.64,20 17.32,10 17.32,-10" fill="none" stroke="#000000" stroke-width="2"/>
+      <polygon points="-34.64,-20 -17.32,-10 -17.32,10 -34.64,20 -51.96,10 -51.96,-10" fill="none" stroke="#000000" stroke-width="2"/>
+      <polygon points="17.32,10 34.64,20 34.64,40 17.32,50 0,40 0,20" fill="none" stroke="#000000" stroke-width="2"/>
+      <polygon points="-17.32,10 0,20 0,40 -17.32,50 -34.64,40 -34.64,20" fill="none" stroke="#000000" stroke-width="2"/>
+      <polygon points="17.32,-50 34.64,-40 34.64,-20 17.32,-10 0,-20 0,-40" fill="none" stroke="#000000" stroke-width="2"/>
+      <polygon points="-17.32,-50 0,-40 0,-20 -17.32,-10 -34.64,-20 -34.64,-40" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c07-18-dash-row" transform="translate(1535 2179)">
+      <rect x="-60" y="-8" width="52" height="16" rx="8" ry="8" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <rect x="6" y="-8" width="28" height="16" rx="8" ry="8" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <rect x="48" y="-8" width="12" height="16" rx="6" ry="6" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+  </g>
+  <g id="s08-negative-space">
+    <g id="c08-01-circle-cut-from-square" transform="translate(2245 1967)">
+      <path d="M-60,-60 H60 V60 H-60 Z M-36,0 A36 36 0 1 0 36,0 A36 36 0 1 0 -36,0 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c08-02-square-cut-from-circle" transform="translate(2435 1967)">
+      <path d="M-60,0 A60 60 0 1 0 60,0 A60 60 0 1 0 -60,0 Z M-28,-28 H28 V28 H-28 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c08-03-triangle-cut-from-circle" transform="translate(2625 1967)">
+      <path d="M-60,0 A60 60 0 1 0 60,0 A60 60 0 1 0 -60,0 Z M0,-38 L32.91,19 L-32.91,19 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c08-04-triangle-cut-from-square" transform="translate(2815 1967)">
+      <path d="M-60,-60 H60 V60 H-60 Z M0,-38 L40,32 L-40,32 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c08-05-ring-cut-out" transform="translate(3005 1967)">
+      <path d="M-60,-60 H60 V60 H-60 Z M-48,0 A48 48 0 1 0 48,0 A48 48 0 1 0 -48,0 Z M-34,0 A34 34 0 1 0 34,0 A34 34 0 1 0 -34,0 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c08-06-overlapping-negative" transform="translate(3195 1967)">
+      <path d="M-60,0 A40 40 0 1 0 20,0 A40 40 0 1 0 -60,0 Z M-20,0 A40 40 0 1 0 60,0 A40 40 0 1 0 -20,0 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c08-07-interlocking-squares" transform="translate(3385 1967)">
+      <path d="M-60,-60 H20 V20 H-60 Z M-20,-20 H60 V60 H-20 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c08-08-triple-negative" transform="translate(3575 1967)">
+      <path d="M-32,-14 A32 32 0 1 0 32,-14 A32 32 0 1 0 -32,-14 Z M-14.68,16 A32 32 0 1 0 49.32,16 A32 32 0 1 0 -14.68,16 Z M-49.32,16 A32 32 0 1 0 14.68,16 A32 32 0 1 0 -49.32,16 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c08-09-geometric-holes" transform="translate(3765 1967)">
+      <path d="M-60,-60 H60 V60 H-60 Z M-46,-36 A10 10 0 1 0 -26,-36 A10 10 0 1 0 -46,-36 Z M-10,-36 A10 10 0 1 0 10,-36 A10 10 0 1 0 -10,-36 Z M26,-36 A10 10 0 1 0 46,-36 A10 10 0 1 0 26,-36 Z M-46,0 A10 10 0 1 0 -26,0 A10 10 0 1 0 -46,0 Z M-10,0 A10 10 0 1 0 10,0 A10 10 0 1 0 -10,0 Z M26,0 A10 10 0 1 0 46,0 A10 10 0 1 0 26,0 Z M-46,36 A10 10 0 1 0 -26,36 A10 10 0 1 0 -46,36 Z M-10,36 A10 10 0 1 0 10,36 A10 10 0 1 0 -10,36 Z M26,36 A10 10 0 1 0 46,36 A10 10 0 1 0 26,36 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c08-10-split-circle" transform="translate(3955 1967)">
+      <path d="M0,-60 L0,-60 A60 60 0 0 1 59.79,-5 L-59.79,-5 A60 60 0 0 1 0,-60 Z M-59.79,5 L59.79,5 A60 60 0 0 1 0,60 L0,60 A60 60 0 0 1 -59.79,5 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c08-11-split-square" transform="translate(2245 2179)">
+      <path d="M-60,-60 L48,-60 L-60,48 Z M60,60 L-48,60 L60,-48 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c08-12-quartered-square" transform="translate(2435 2179)">
+      <path d="M-60,-60 H-5 V-5 H-60 Z M5,-60 H60 V-5 H5 Z M-60,5 H-5 V60 H-60 Z M5,5 H60 V60 H5 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c08-13-banded-circle" transform="translate(2625 2179)">
+      <path d="M0,-60 L0,-60 A60 60 0 0 1 43.81,-41 L-43.81,-41 A60 60 0 0 1 0,-60 Z M-49.44,-34 L49.44,-34 A60 60 0 0 1 57.83,-16 L-57.83,-16 A60 60 0 0 1 -49.44,-34 Z M-59.32,-9 L59.32,-9 A60 60 0 0 1 59.32,9 L-59.32,9 A60 60 0 0 1 -59.32,-9 Z M-57.83,16 L57.83,16 A60 60 0 0 1 49.44,34 L-49.44,34 A60 60 0 0 1 -57.83,16 Z M-43.81,41 L43.81,41 A60 60 0 0 1 0,60 L0,60 A60 60 0 0 1 -43.81,41 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c08-14-hexagon-frame" transform="translate(2815 2179)">
+      <path d="M0,-62 L53.69,-31 L53.69,31 L0,62 L-53.69,31 L-53.69,-31 Z M0,-40 L34.64,-20 L34.64,20 L0,40 L-34.64,20 L-34.64,-20 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c08-15-star-cut-from-circle" transform="translate(3005 2179)">
+      <path d="M-60,0 A60 60 0 1 0 60,0 A60 60 0 1 0 -60,0 Z M0,-36 L9.4,-8.94 L38.04,-8.36 L15.22,8.94 L23.51,36.36 L0,20 L-23.51,36.36 L-15.22,8.94 L-38.04,-8.36 L-9.4,-8.94 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c08-16-keyhole" transform="translate(3195 2179)">
+      <path d="M-60,0 A60 60 0 1 0 60,0 A60 60 0 1 0 -60,0 Z M-6,0.65 A14 14 0 1 1 6,0.65 L12,30 L-12,30 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c08-17-slot-cut-out" transform="translate(3385 2179)">
+      <path d="M-40,-60 H40 A20 20 0 0 1 60,-40 V40 A20 20 0 0 1 40,60 H-40 A20 20 0 0 1 -60,40 V-40 A20 20 0 0 1 -40,-60 Z M-26,-10 H26 A10 10 0 0 1 36,0 V0 A10 10 0 0 1 26,10 H-26 A10 10 0 0 1 -36,0 V0 A10 10 0 0 1 -26,-10 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c08-18-concentric-cut-outs" transform="translate(3575 2179)">
+      <path d="M-60,0 A60 60 0 1 0 60,0 A60 60 0 1 0 -60,0 Z M-45,0 A45 45 0 1 0 45,0 A45 45 0 1 0 -45,0 Z M-30,0 A30 30 0 1 0 30,0 A30 30 0 1 0 -30,0 Z M-15,0 A15 15 0 1 0 15,0 A15 15 0 1 0 -15,0 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+  </g>
+  <g id="s09-curves-and-organic-geometry">
+    <g id="c09-01-s-curve" transform="translate(205 2487)">
+      <path d="M40,-55 C-60,-55 -60,0 0,0 C60,0 60,55 -40,55" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c09-02-wave" transform="translate(395 2487)">
+      <path d="M-60,0 C-50,-25 -40,-25 -30,0 S-10,25 0,0 S20,-25 30,0 S50,25 60,0" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c09-03-double-wave" transform="translate(585 2487)">
+      <path d="M-60,-14 C-50,-39 -40,-39 -30,-14 S-10,11 0,-14 S20,-39 30,-14 S50,11 60,-14" fill="none" stroke="#000000" stroke-width="2"/>
+      <path d="M-60,14 C-50,-11 -40,-11 -30,14 S-10,39 0,14 S20,-11 30,14 S50,39 60,14" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c09-04-spiral" transform="translate(775 2487)">
+      <path d="M5.5,6 A11 11 0 0 0 -16.5,6 A22 22 0 0 0 27.5,6 A33 33 0 0 0 -38.5,6 A44 44 0 0 0 49.5,6 A55 55 0 0 0 -60.5,6" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c09-05-infinity" transform="translate(965 2487)">
+      <path d="M0,0 C20,-40 60,-40 60,0 C60,40 20,40 0,0 C-20,-40 -60,-40 -60,0 C-60,40 -20,40 0,0 Z" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c09-06-lens" transform="translate(1155 2487)">
+      <path d="M-60,0 A75 75 0 0 1 60,0 A75 75 0 0 1 -60,0 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c09-07-eye" transform="translate(1345 2487)">
+      <path d="M-60,0 A75 75 0 0 1 60,0 A75 75 0 0 1 -60,0 Z" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="0" r="20" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c09-08-rounded-diamond" transform="translate(1535 2487)">
+      <path d="M-12.73,-47.27 Q0,-60 12.73,-47.27 L47.27,-12.73 Q60,0 47.27,12.73 L12.73,47.27 Q0,60 -12.73,47.27 L-47.27,12.73 Q-60,0 -47.27,-12.73 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c09-09-reuleaux-triangle" transform="translate(1725 2487)">
+      <path d="M0,-50 A100.46 100.46 0 0 1 50.23,37 A100.46 100.46 0 0 1 -50.23,37 A100.46 100.46 0 0 1 0,-50 Z" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c09-10-rounded-triangle" transform="translate(1915 2487)">
+      <path d="M-11,-33.45 Q0,-52.5 11,-33.45 L49.62,33.45 Q60.62,52.5 38.62,52.5 L-38.62,52.5 Q-60.62,52.5 -49.62,33.45 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c09-11-leaf" transform="translate(205 2699)">
+      <path d="M-50,50 Q-50,-50 50,-50 Q50,50 -50,50 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c09-12-teardrop" transform="translate(395 2699)">
+      <path d="M0,-62 C0,-62 42,-6 42,18 A42 42 0 0 1 -42,18 C-42,-6 0,-62 0,-62 Z" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c09-13-quatrefoil" transform="translate(585 2699)">
+      <path d="M30,-30 A30 30 0 0 1 30,30 A30 30 0 0 1 -30,30 A30 30 0 0 1 -30,-30 A30 30 0 0 1 30,-30 Z" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c09-14-concave-diamond" transform="translate(775 2699)">
+      <path d="M0,-60 A60 60 0 0 0 60,0 A60 60 0 0 0 0,60 A60 60 0 0 0 -60,0 A60 60 0 0 0 0,-60 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c09-15-s-split-circle" transform="translate(965 2699)">
+      <path d="M0,-60 A60 60 0 0 1 0,60 A30 30 0 0 1 0,0 A30 30 0 0 0 0,-60 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="0" r="60" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c09-16-twisted-ribbon" transform="translate(1155 2699)">
+      <path d="M-60,0 C-30,-60 30,60 60,0 C30,-60 -30,60 -60,0 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c09-17-bell-curve" transform="translate(1345 2699)">
+      <path d="M-60,40 C-20,40 -20,-40 0,-40 C20,-40 20,40 60,40" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-60" y1="40" x2="60" y2="40" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+    </g>
+  </g>
+  <g id="s10-construction-grids">
+    <g id="c10-01-2-x-2-grid" transform="translate(2245 2487)">
+      <rect x="-60" y="-60" width="120" height="120" fill="none" stroke="#000000" stroke-width="1"/>
+      <line x1="0" y1="-60" x2="0" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="0" x2="60" y2="0" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+    </g>
+    <g id="c10-02-3-x-3-grid" transform="translate(2435 2487)">
+      <rect x="-60" y="-60" width="120" height="120" fill="none" stroke="#000000" stroke-width="1"/>
+      <line x1="-20" y1="-60" x2="-20" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="-20" x2="60" y2="-20" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="20" y1="-60" x2="20" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="20" x2="60" y2="20" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+    </g>
+    <g id="c10-03-4-x-4-grid" transform="translate(2625 2487)">
+      <rect x="-60" y="-60" width="120" height="120" fill="none" stroke="#000000" stroke-width="1"/>
+      <line x1="-30" y1="-60" x2="-30" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="-30" x2="60" y2="-30" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="-60" x2="0" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="0" x2="60" y2="0" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="30" y1="-60" x2="30" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="30" x2="60" y2="30" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+    </g>
+    <g id="c10-04-5-x-5-grid" transform="translate(2815 2487)">
+      <rect x="-60" y="-60" width="120" height="120" fill="none" stroke="#000000" stroke-width="1"/>
+      <line x1="-36" y1="-60" x2="-36" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="-36" x2="60" y2="-36" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-12" y1="-60" x2="-12" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="-12" x2="60" y2="-12" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="12" y1="-60" x2="12" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="12" x2="60" y2="12" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="36" y1="-60" x2="36" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="36" x2="60" y2="36" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+    </g>
+    <g id="c10-05-circular-grid" transform="translate(3005 2487)">
+      <circle cx="0" cy="0" r="12" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <circle cx="0" cy="0" r="24" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <circle cx="0" cy="0" r="36" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <circle cx="0" cy="0" r="48" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <circle cx="0" cy="0" r="60" fill="none" stroke="#000000" stroke-width="1"/>
+      <line x1="-60" y1="0" x2="60" y2="0" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="-60" x2="0" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+    </g>
+    <g id="c10-06-radial-grid-15deg" transform="translate(3195 2487)">
+      <circle cx="0" cy="0" r="20" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <circle cx="0" cy="0" r="40" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <circle cx="0" cy="0" r="60" fill="none" stroke="#000000" stroke-width="1"/>
+      <line x1="0" y1="0" x2="60" y2="0" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="0" x2="57.96" y2="15.53" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="0" x2="51.96" y2="30" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="0" x2="42.43" y2="42.43" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="0" x2="30" y2="51.96" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="0" x2="15.53" y2="57.96" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="0" x2="0" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="0" x2="-15.53" y2="57.96" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="0" x2="-30" y2="51.96" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="0" x2="-42.43" y2="42.43" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="0" x2="-51.96" y2="30" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="0" x2="-57.96" y2="15.53" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="0" x2="-60" y2="0" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="0" x2="-57.96" y2="-15.53" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="0" x2="-51.96" y2="-30" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="0" x2="-42.43" y2="-42.43" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="0" x2="-30" y2="-51.96" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="0" x2="-15.53" y2="-57.96" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="0" x2="0" y2="-60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="0" x2="15.53" y2="-57.96" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="0" x2="30" y2="-51.96" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="0" x2="42.43" y2="-42.43" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="0" x2="51.96" y2="-30" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="0" x2="57.96" y2="-15.53" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+    </g>
+    <g id="c10-07-triangular-grid" transform="translate(3385 2487)">
+      <polygon points="0,-51 58.89,51 -58.89,51" fill="none" stroke="#000000" stroke-width="1"/>
+      <line x1="14.72" y1="-25.5" x2="-14.72" y2="-25.5" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-44.17" y1="25.5" x2="-29.44" y2="51" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="44.17" y1="25.5" x2="29.44" y2="51" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="29.44" y1="0" x2="-29.44" y2="0" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-29.44" y1="0" x2="0" y2="51" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="29.44" y1="0" x2="0" y2="51" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="44.17" y1="25.5" x2="-44.17" y2="25.5" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-14.72" y1="-25.5" x2="29.44" y2="51" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="14.72" y1="-25.5" x2="-29.44" y2="51" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+    </g>
+    <g id="c10-08-isometric-grid" transform="translate(3575 2487)">
+      <rect x="-60" y="-60" width="120" height="120" fill="none" stroke="#000000" stroke-width="1"/>
+      <line x1="56.08" y1="-60" x2="60" y2="-57.74" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="16.08" y1="-60" x2="60" y2="-34.64" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-23.92" y1="-60" x2="60" y2="-11.55" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="-57.74" x2="60" y2="11.55" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="-34.64" x2="60" y2="34.64" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="-11.55" x2="60" y2="57.74" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="11.55" x2="23.92" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="34.64" x2="-16.08" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="57.74" x2="-56.08" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="60" y1="57.74" x2="56.08" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="60" y1="34.64" x2="16.08" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="60" y1="11.55" x2="-23.92" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="60" y1="-11.55" x2="-60" y2="57.74" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="60" y1="-34.64" x2="-60" y2="34.64" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="60" y1="-57.74" x2="-60" y2="11.55" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="23.92" y1="-60" x2="-60" y2="-11.55" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-16.08" y1="-60" x2="-60" y2="-34.64" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-56.08" y1="-60" x2="-60" y2="-57.74" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="60" y1="-60" x2="60" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="40" y1="-60" x2="40" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="20" y1="-60" x2="20" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="-60" x2="0" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-20" y1="-60" x2="-20" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-40" y1="-60" x2="-40" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="-60" x2="-60" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+    </g>
+    <g id="c10-09-diagonal-grid" transform="translate(3765 2487)">
+      <rect x="-60" y="-60" width="120" height="120" fill="none" stroke="#000000" stroke-width="1"/>
+      <line x1="-60" y1="-30" x2="-30" y2="-60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="30" x2="-30" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="0" x2="0" y2="-60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="0" x2="0" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="30" x2="30" y2="-60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="-30" x2="30" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="60" x2="60" y2="-60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="-60" x2="60" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-30" y1="60" x2="60" y2="-30" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-30" y1="-60" x2="60" y2="30" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="60" x2="60" y2="0" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="-60" x2="60" y2="0" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="30" y1="60" x2="60" y2="30" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="30" y1="-60" x2="60" y2="-30" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+    </g>
+    <g id="c10-10-golden-ratio-rectangle" transform="translate(3955 2487)">
+      <rect x="-60" y="-37.08" width="120" height="74.16" fill="none" stroke="#000000" stroke-width="1"/>
+      <rect x="-60" y="-37.08" width="74.16" height="74.16" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <rect x="14.16" y="-37.08" width="45.84" height="45.84" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <rect x="31.67" y="8.75" width="28.33" height="28.33" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <rect x="14.16" y="19.57" width="17.51" height="17.51" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <rect x="14.16" y="8.75" width="10.82" height="10.82" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <rect x="24.98" y="8.75" width="6.69" height="6.69" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <rect x="27.54" y="15.44" width="4.13" height="4.13" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <path d="M-60,37.08 A74.16 74.16 0 0 1 14.16,-37.08 A45.84 45.84 0 0 1 60,8.75 A28.33 28.33 0 0 1 31.67,37.08 A17.51 17.51 0 0 1 14.16,19.57 A10.82 10.82 0 0 1 24.98,8.75 A6.69 6.69 0 0 1 31.67,15.44 A4.13 4.13 0 0 1 27.54,19.57" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c10-11-golden-ratio-circles" transform="translate(2245 2699)">
+      <line x1="-60" y1="60" x2="60" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <circle cx="0" cy="0" r="60" fill="none" stroke="#000000" stroke-width="1"/>
+      <circle cx="0" cy="22.92" r="37.08" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <circle cx="0" cy="37.08" r="22.92" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <circle cx="0" cy="45.84" r="14.16" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <circle cx="0" cy="51.25" r="8.75" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+    </g>
+    <g id="c10-12-circle-plus-square-alignment" transform="translate(2435 2699)">
+      <circle cx="0" cy="0" r="59.4" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <circle cx="0" cy="0" r="42" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-42" y1="-42" x2="42" y2="42" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-42" y1="42" x2="42" y2="-42" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="0" x2="60" y2="0" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="-60" x2="0" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <rect x="-42" y="-42" width="84" height="84" fill="none" stroke="#000000" stroke-width="1"/>
+    </g>
+    <g id="c10-13-hexagonal-construction" transform="translate(2625 2699)">
+      <circle cx="0" cy="0" r="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <circle cx="0" cy="0" r="51.96" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <polygon points="0,-30 25.98,-15 25.98,15 0,30 -25.98,15 -25.98,-15" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="-60" x2="0" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="51.96" y1="-30" x2="-51.96" y2="30" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="51.96" y1="30" x2="-51.96" y2="-30" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <polygon points="0,-60 51.96,-30 51.96,30 0,60 -51.96,30 -51.96,-30" fill="none" stroke="#000000" stroke-width="1"/>
+    </g>
+    <g id="c10-14-octagonal-construction" transform="translate(2815 2699)">
+      <rect x="-59.13" y="-59.13" width="118.26" height="118.26" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <polygon points="0,-64 64,0 0,64 -64,0" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <circle cx="0" cy="0" r="59.13" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-64" y1="0" x2="64" y2="0" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="-64" x2="0" y2="64" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <polygon points="59.13,24.49 24.49,59.13 -24.49,59.13 -59.13,24.49 -59.13,-24.49 -24.49,-59.13 24.49,-59.13 59.13,-24.49" fill="none" stroke="#000000" stroke-width="1"/>
+    </g>
+    <g id="c10-15-pentagon-construction" transform="translate(3005 2699)">
+      <circle cx="0" cy="0" r="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <polygon points="0,-60 57.06,-18.54 35.27,48.54 -35.27,48.54 -57.06,-18.54" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="0" y1="-60" x2="0" y2="60" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <line x1="-60" y1="0" x2="60" y2="0" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+      <polygon points="0,-60 35.27,48.54 -57.06,-18.54 57.06,-18.54 -35.27,48.54" fill="none" stroke="#000000" stroke-width="1"/>
+    </g>
+    <g id="c10-16-dot-grid" transform="translate(3195 2699)">
+      <circle cx="-60" cy="-60" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="-40" cy="-60" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="-20" cy="-60" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="0" cy="-60" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="20" cy="-60" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="40" cy="-60" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="60" cy="-60" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="-60" cy="-40" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="-40" cy="-40" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="-20" cy="-40" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="0" cy="-40" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="20" cy="-40" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="40" cy="-40" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="60" cy="-40" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="-60" cy="-20" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="-40" cy="-20" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="-20" cy="-20" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="0" cy="-20" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="20" cy="-20" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="40" cy="-20" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="60" cy="-20" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="-60" cy="0" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="-40" cy="0" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="-20" cy="0" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="0" cy="0" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="20" cy="0" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="40" cy="0" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="60" cy="0" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="-60" cy="20" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="-40" cy="20" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="-20" cy="20" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="0" cy="20" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="20" cy="20" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="40" cy="20" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="60" cy="20" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="-60" cy="40" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="-40" cy="40" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="-20" cy="40" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="0" cy="40" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="20" cy="40" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="40" cy="40" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="60" cy="40" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="-60" cy="60" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="-40" cy="60" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="-20" cy="60" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="0" cy="60" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="20" cy="60" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="40" cy="60" r="2.2" fill="#8c8c8c" stroke="none"/>
+      <circle cx="60" cy="60" r="2.2" fill="#8c8c8c" stroke="none"/>
+    </g>
+  </g>
+  <g id="s11-combination-examples">
+    <g id="c11-01-circle-plus-square" transform="translate(205 3007)">
+      <rect x="-60" y="-60" width="80" height="80" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="20" cy="20" r="40" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c11-02-triangle-plus-circle" transform="translate(395 3007)">
+      <circle cx="0" cy="-24" r="34" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="0,-36 56,58 -56,58" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c11-03-circle-chain" transform="translate(585 3007)">
+      <path d="M-60,0 A30 30 0 1 0 0,0 A30 30 0 1 0 -60,0 Z M-30,0 A30 30 0 1 0 30,0 A30 30 0 1 0 -30,0 Z M0,0 A30 30 0 1 0 60,0 A30 30 0 1 0 0,0 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c11-04-concentric-plus-cross-lines" transform="translate(775 3007)">
+      <circle cx="0" cy="0" r="18" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="0" r="36" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="0" r="54" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-60" y1="0" x2="60" y2="0" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="0" y1="-60" x2="0" y2="60" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c11-05-circle-plus-speed-lines" transform="translate(965 3007)">
+      <circle cx="24" cy="0" r="34" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <line x1="-60" y1="-20" x2="-18" y2="-20" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-60" y1="0" x2="-18" y2="0" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-60" y1="20" x2="-18" y2="20" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c11-06-square-plus-diagonal" transform="translate(1155 3007)">
+      <polygon points="60,-60 60,60 -60,60" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <rect x="-60" y="-60" width="120" height="120" fill="none" stroke="#000000" stroke-width="2"/>
+      <line x1="-60" y1="60" x2="60" y2="-60" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c11-07-circle-plus-triangle-cut-out" transform="translate(1345 3007)">
+      <path d="M-60,0 A60 60 0 1 0 60,0 A60 60 0 1 0 -60,0 Z M-18,-30 L34,0 L-18,30 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c11-08-three-circle-trefoil" transform="translate(1535 3007)">
+      <circle cx="0" cy="-30.02" r="26" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="26" cy="15.01" r="26" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="-26" cy="15.01" r="26" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="0" r="56" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c11-09-hexagon-plus-circle-cut-out" transform="translate(1725 3007)">
+      <path d="M0,-62 L53.69,-31 L53.69,31 L0,62 L-53.69,31 L-53.69,-31 Z M-26,0 A26 26 0 1 0 26,0 A26 26 0 1 0 -26,0 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="0" r="10" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c11-10-quarter-circle-pinwheel" transform="translate(1915 3007)">
+      <path d="M-58,-2 L-58,-58 A56 56 0 0 1 -2,-2 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <path d="M2,-58 L58,-58 A56 56 0 0 1 2,-2 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <path d="M58,2 L58,58 A56 56 0 0 1 2,2 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <path d="M-2,58 L-58,58 A56 56 0 0 1 -2,2 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c11-11-rainbow-arches" transform="translate(205 3219)">
+      <path d="M-60,30 A60 60 0 0 1 60,30 L48,30 A48 48 0 0 0 -48,30 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <path d="M-42,30 A42 42 0 0 1 42,30 L30,30 A30 30 0 0 0 -30,30 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <path d="M-24,30 A24 24 0 0 1 24,30 L12,30 A12 12 0 0 0 -12,30 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c11-12-diamond-in-circle" transform="translate(395 3219)">
+      <polygon points="0,-60 60,0 0,60 -60,0" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="0" r="60" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c11-13-offset-half-circles" transform="translate(585 3219)">
+      <path d="M-12,0 L-60,0 A48 48 0 0 1 36,0 Z" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <path d="M12,0 L60,0 A48 48 0 0 1 -36,0 Z" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c11-14-ring-plus-bar" transform="translate(775 3219)">
+      <path d="M-56,0 A56 56 0 1 0 56,0 A56 56 0 1 0 -56,0 Z M-36,0 A36 36 0 1 0 36,0 A36 36 0 1 0 -36,0 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <rect x="-8" y="-60" width="16" height="120" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c11-15-grid-plus-circle" transform="translate(965 3219)">
+      <rect x="-59" y="-59" width="34" height="34" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-17" y="-59" width="34" height="34" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="25" y="-59" width="34" height="34" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-59" y="-17" width="34" height="34" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="0" cy="0" r="17" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <rect x="25" y="-17" width="34" height="34" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-59" y="25" width="34" height="34" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="-17" y="25" width="34" height="34" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="25" y="25" width="34" height="34" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c11-16-triangle-stack" transform="translate(1155 3219)">
+      <polygon points="0,-51 29.44,0 -29.44,0" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="29.44,0 58.89,51 0,51" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="-29.44,0 0,51 -58.89,51" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c11-17-capsule-plus-dot" transform="translate(1345 3219)">
+      <rect x="-60" y="-24" width="120" height="48" rx="24" ry="24" fill="none" stroke="#000000" stroke-width="2"/>
+      <circle cx="36" cy="0" r="14" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g id="c11-18-split-diamond" transform="translate(1535 3219)">
+      <polygon points="-4,-60 -4,60 -64,0" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+      <polygon points="4,-60 64,0 4,60" fill="none" stroke="#000000" stroke-width="2"/>
+    </g>
+  </g>
+  <g id="legend-and-notes">
+    <rect x="2200" y="2950" width="44" height="30" fill="none" stroke="#000000" stroke-width="2"/>
+    <rect x="2200" y="3010" width="44" height="30" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    <path d="M2200,3070 H2244 V3100 H2200 Z M2213,3085 A9 9 0 1 0 2231,3085 A9 9 0 1 0 2213,3085 Z" fill-rule="evenodd" clip-rule="evenodd" fill="#9a9a9a" stroke="#000000" stroke-width="2"/>
+    <line x1="2200" y1="3145" x2="2244" y2="3145" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+    <line x1="2200" y1="3135" x2="2244" y2="3135" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+    <line x1="2200" y1="3155" x2="2244" y2="3155" fill="none" stroke="#8c8c8c" stroke-width="0.75"/>
+    <line x1="2200" y1="3205" x2="2244" y2="3205" fill="none" stroke="#000000" stroke-width="1"/>
+  </g>
+</svg>
