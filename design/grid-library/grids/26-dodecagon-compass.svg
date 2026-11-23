@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000px" height="1000px" viewBox="0 0 1000 1000">
+  <title>26 Dodecagon Compass — Radial</title>
+  <g id="background">
+    <rect x="0" y="0" width="1000" height="1000" fill="#ffffff" stroke="none"/>
+  </g>
+  <g id="construction-guides">
+    <g id="g26-dodecagon-compass-guides">
+      <polygon points="500,50 725,110.29 889.71,275 950,500 889.71,725 725,889.71 500,950 275,889.71 110.29,725 50,500 110.29,275 275,110.29" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="576.87,213.12 710.01,289.99 786.88,423.13 786.88,576.87 710.01,710.01 576.87,786.88 423.13,786.88 289.99,710.01 213.12,576.87 213.12,423.13 289.99,289.99 423.13,213.12" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="500" cy="500" r="297" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="500" cy="500" r="148.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="500" y1="50" x2="500" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="725" y1="110.29" x2="275" y2="889.71" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="889.71" y1="275" x2="110.29" y2="725" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="950" y1="500" x2="50" y2="500" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="889.71" y1="725" x2="110.29" y2="275" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="725" y1="889.71" x2="275" y2="110.29" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+    </g>
+  </g>
+  <g id="key-lines">
+    <g id="g26-dodecagon-compass-key">
+      <circle cx="500" cy="500" r="450" fill="none" stroke="#000000" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="logo-artwork">
+  </g>
+</svg>

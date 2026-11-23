@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000px" height="1000px" viewBox="0 0 1000 1000">
+  <title>50 Vesica Piscis — Sacred Geometry</title>
+  <g id="background">
+    <rect x="0" y="0" width="1000" height="1000" fill="#ffffff" stroke="none"/>
+  </g>
+  <g id="construction-guides">
+    <g id="g50-vesica-piscis-guides">
+      <circle cx="365" cy="500" r="270" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="635" cy="500" r="270" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="500" x2="950" y2="500" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="500" y1="50" x2="500" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="365,500 500,266.17 635,500 500,733.83" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="365,500 500,266.17 500,733.83" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+    </g>
+  </g>
+  <g id="key-lines">
+    <g id="g50-vesica-piscis-key">
+      <path d="M500,266.17 A270 270 0 0 1 500,733.83 A270 270 0 0 1 500,266.17 Z" fill="none" stroke="#000000" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="logo-artwork">
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000px" height="1000px" viewBox="0 0 1000 1000">
+  <title>39 Honeycomb Flat — Hexagons</title>
+  <g id="background">
+    <rect x="0" y="0" width="1000" height="1000" fill="#ffffff" stroke="none"/>
+  </g>
+  <g id="construction-guides">
+    <g id="g39-honeycomb-flat-guides">
+      <polygon points="599,157.05 549.5,242.79 450.5,242.79 401,157.05 450.5,71.32 549.5,71.32" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="747.5,242.79 698,328.53 599,328.53 549.5,242.79 599,157.05 698,157.05" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="896,328.53 846.5,414.26 747.5,414.26 698,328.53 747.5,242.79 846.5,242.79" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="450.5,242.79 401,328.53 302,328.53 252.5,242.79 302,157.05 401,157.05" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="599,328.53 549.5,414.26 450.5,414.26 401,328.53 450.5,242.79 549.5,242.79" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="747.5,414.26 698,500 599,500 549.5,414.26 599,328.53 698,328.53" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="896,500 846.5,585.74 747.5,585.74 698,500 747.5,414.26 846.5,414.26" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="302,328.53 252.5,414.26 153.5,414.26 104,328.53 153.5,242.79 252.5,242.79" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="450.5,414.26 401,500 302,500 252.5,414.26 302,328.53 401,328.53" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="747.5,585.74 698,671.47 599,671.47 549.5,585.74 599,500 698,500" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="896,671.47 846.5,757.21 747.5,757.21 698,671.47 747.5,585.74 846.5,585.74" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="302,500 252.5,585.74 153.5,585.74 104,500 153.5,414.26 252.5,414.26" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="450.5,585.74 401,671.47 302,671.47 252.5,585.74 302,500 401,500" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="599,671.47 549.5,757.21 450.5,757.21 401,671.47 450.5,585.74 549.5,585.74" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="747.5,757.21 698,842.95 599,842.95 549.5,757.21 599,671.47 698,671.47" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="302,671.47 252.5,757.21 153.5,757.21 104,671.47 153.5,585.74 252.5,585.74" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="450.5,757.21 401,842.95 302,842.95 252.5,757.21 302,671.47 401,671.47" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="599,842.95 549.5,928.68 450.5,928.68 401,842.95 450.5,757.21 549.5,757.21" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+    </g>
+  </g>
+  <g id="key-lines">
+    <g id="g39-honeycomb-flat-key">
+      <polygon points="599,500 549.5,585.74 450.5,585.74 401,500 450.5,414.26 549.5,414.26" fill="none" stroke="#000000" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="logo-artwork">
+  </g>
+</svg>

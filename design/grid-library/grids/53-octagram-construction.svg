@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000px" height="1000px" viewBox="0 0 1000 1000">
+  <title>53 Octagram Construction — Sacred Geometry</title>
+  <g id="background">
+    <rect x="0" y="0" width="1000" height="1000" fill="#ffffff" stroke="none"/>
+  </g>
+  <g id="construction-guides">
+    <g id="g53-octagram-construction-guides">
+      <polygon points="181.8,181.8 818.2,181.8 818.2,818.2 181.8,818.2" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="500,50 950,500 500,950 50,500" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="500,50 818.2,181.8 950,500 818.2,818.2 500,950 181.8,818.2 50,500 181.8,181.8" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="500,50 818.2,818.2 50,500 818.2,181.8 500,950 181.8,181.8 950,500 181.8,818.2" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="500" cy="500" r="318.2" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+    </g>
+  </g>
+  <g id="key-lines">
+    <g id="g53-octagram-construction-key">
+      <circle cx="500" cy="500" r="450" fill="none" stroke="#000000" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="logo-artwork">
+  </g>
+</svg>

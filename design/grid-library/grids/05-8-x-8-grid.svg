@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000px" height="1000px" viewBox="0 0 1000 1000">
+  <title>05 8 × 8 Grid — Square and Modular</title>
+  <g id="background">
+    <rect x="0" y="0" width="1000" height="1000" fill="#ffffff" stroke="none"/>
+  </g>
+  <g id="construction-guides">
+    <g id="g05-8-x-8-grid-guides">
+      <line x1="162.5" y1="50" x2="162.5" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="162.5" x2="950" y2="162.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="275" y1="50" x2="275" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="275" x2="950" y2="275" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="387.5" y1="50" x2="387.5" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="387.5" x2="950" y2="387.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="612.5" y1="50" x2="612.5" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="612.5" x2="950" y2="612.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="725" y1="50" x2="725" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="725" x2="950" y2="725" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="837.5" y1="50" x2="837.5" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="837.5" x2="950" y2="837.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+    </g>
+  </g>
+  <g id="key-lines">
+    <g id="g05-8-x-8-grid-key">
+      <polygon points="50,50 950,50 950,950 50,950" fill="none" stroke="#000000" stroke-width="1.5"/>
+      <line x1="500" y1="50" x2="500" y2="950" fill="none" stroke="#000000" stroke-width="1.5"/>
+      <line x1="50" y1="500" x2="950" y2="500" fill="none" stroke="#000000" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="logo-artwork">
+  </g>
+</svg>

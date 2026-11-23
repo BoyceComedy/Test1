@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000px" height="1000px" viewBox="0 0 1000 1000">
+  <title>28 Triangle Subdivided 6 — Triangles and Isometric</title>
+  <g id="background">
+    <rect x="0" y="0" width="1000" height="1000" fill="#ffffff" stroke="none"/>
+  </g>
+  <g id="construction-guides">
+    <g id="g28-triangle-subdivided-6-guides">
+      <line x1="575" y1="240.19" x2="425" y2="240.19" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="125" y1="759.81" x2="200" y2="889.71" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="875" y1="759.81" x2="800" y2="889.71" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="650" y1="370.1" x2="350" y2="370.1" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="200" y1="629.9" x2="350" y2="889.71" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="800" y1="629.9" x2="650" y2="889.71" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="725" y1="500" x2="275" y2="500" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="275" y1="500" x2="500" y2="889.71" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="725" y1="500" x2="500" y2="889.71" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="800" y1="629.9" x2="200" y2="629.9" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="350" y1="370.1" x2="650" y2="889.71" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="650" y1="370.1" x2="350" y2="889.71" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="875" y1="759.81" x2="125" y2="759.81" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="425" y1="240.19" x2="800" y2="889.71" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="575" y1="240.19" x2="200" y2="889.71" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+    </g>
+  </g>
+  <g id="key-lines">
+    <g id="g28-triangle-subdivided-6-key">
+      <polygon points="500,110.29 950,889.71 50,889.71" fill="none" stroke="#000000" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="logo-artwork">
+  </g>
+</svg>

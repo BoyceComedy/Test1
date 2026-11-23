@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000px" height="1000px" viewBox="0 0 1000 1000">
+  <title>35 Rhombus Lattice — Triangles and Isometric</title>
+  <g id="background">
+    <rect x="0" y="0" width="1000" height="1000" fill="#ffffff" stroke="none"/>
+  </g>
+  <g id="construction-guides">
+    <g id="g35-rhombus-lattice-guides">
+      <line x1="889.71" y1="50" x2="950" y2="154.42" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="759.81" y1="50" x2="950" y2="379.42" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="629.9" y1="50" x2="950" y2="604.42" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="500" y1="50" x2="950" y2="829.42" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="370.1" y1="50" x2="889.71" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="240.19" y1="50" x2="759.81" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="110.29" y1="50" x2="629.9" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="170.58" x2="500" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="395.58" x2="370.1" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="620.58" x2="240.19" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="845.58" x2="110.29" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="950" y1="845.58" x2="889.71" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="950" y1="620.58" x2="759.81" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="950" y1="395.58" x2="629.9" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="950" y1="170.58" x2="500" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="889.71" y1="50" x2="370.1" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="759.81" y1="50" x2="240.19" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="629.9" y1="50" x2="110.29" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="500" y1="50" x2="50" y2="829.42" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="370.1" y1="50" x2="50" y2="604.42" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="240.19" y1="50" x2="50" y2="379.42" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="110.29" y1="50" x2="50" y2="154.42" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+    </g>
+  </g>
+  <g id="key-lines">
+    <g id="g35-rhombus-lattice-key">
+      <polygon points="50,50 950,50 950,950 50,950" fill="none" stroke="#000000" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="logo-artwork">
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000px" height="1000px" viewBox="0 0 1000 1000">
+  <title>25 Radial Petals — Radial</title>
+  <g id="background">
+    <rect x="0" y="0" width="1000" height="1000" fill="#ffffff" stroke="none"/>
+  </g>
+  <g id="construction-guides">
+    <g id="g25-radial-petals-guides">
+      <circle cx="500" cy="275" r="225" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="612.5" cy="305.14" r="225" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="694.86" cy="387.5" r="225" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="725" cy="500" r="225" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="694.86" cy="612.5" r="225" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="612.5" cy="694.86" r="225" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="500" cy="725" r="225" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="387.5" cy="694.86" r="225" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="305.14" cy="612.5" r="225" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="275" cy="500" r="225" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="305.14" cy="387.5" r="225" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="387.5" cy="305.14" r="225" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="500" y1="500" x2="500" y2="50" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="500" y1="500" x2="725" y2="110.29" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="500" y1="500" x2="889.71" y2="275" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="500" y1="500" x2="950" y2="500" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="500" y1="500" x2="889.71" y2="725" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="500" y1="500" x2="725" y2="889.71" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="500" y1="500" x2="500" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="500" y1="500" x2="275" y2="889.71" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="500" y1="500" x2="110.29" y2="725" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="500" y1="500" x2="50" y2="500" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="500" y1="500" x2="110.29" y2="275" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="500" y1="500" x2="275" y2="110.29" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+    </g>
+  </g>
+  <g id="key-lines">
+    <g id="g25-radial-petals-key">
+      <circle cx="500" cy="500" r="450" fill="none" stroke="#000000" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="logo-artwork">
+  </g>
+</svg>

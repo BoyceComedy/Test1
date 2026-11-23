@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000px" height="1000px" viewBox="0 0 1000 1000">
+  <title>31 Isometric Grid Fine — Triangles and Isometric</title>
+  <g id="background">
+    <rect x="0" y="0" width="1000" height="1000" fill="#ffffff" stroke="none"/>
+  </g>
+  <g id="construction-guides">
+    <g id="g31-isometric-grid-fine-guides">
+      <line x1="950" y1="50" x2="950" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="905" y1="50" x2="905" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="815" y1="50" x2="815" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="770" y1="50" x2="770" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="725" y1="50" x2="725" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="635" y1="50" x2="635" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="590" y1="50" x2="590" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="545" y1="50" x2="545" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="455" y1="50" x2="455" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="410" y1="50" x2="410" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="365" y1="50" x2="365" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="275" y1="50" x2="275" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="230" y1="50" x2="230" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="185" y1="50" x2="185" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="95" y1="50" x2="95" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="50" x2="50" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="890.58" y1="50" x2="950" y2="84.31" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="710.58" y1="50" x2="950" y2="188.23" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="620.58" y1="50" x2="950" y2="240.19" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="530.58" y1="50" x2="950" y2="292.15" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="350.58" y1="50" x2="950" y2="396.08" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="260.58" y1="50" x2="950" y2="448.04" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="170.58" y1="50" x2="950" y2="500" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="84.31" x2="950" y2="603.92" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="136.27" x2="950" y2="655.88" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="188.23" x2="950" y2="707.85" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="292.15" x2="950" y2="811.77" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="344.12" x2="950" y2="863.73" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="396.08" x2="950" y2="915.69" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="500" x2="829.42" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="551.96" x2="739.42" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="603.92" x2="649.42" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="707.85" x2="469.42" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="759.81" x2="379.42" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="811.77" x2="289.42" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="50" y1="915.69" x2="109.42" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="950" y1="915.69" x2="890.58" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="950" y1="811.77" x2="710.58" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="950" y1="759.81" x2="620.58" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="950" y1="707.85" x2="530.58" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="950" y1="603.92" x2="350.58" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="950" y1="551.96" x2="260.58" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="950" y1="500" x2="170.58" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="950" y1="396.08" x2="50" y2="915.69" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="950" y1="344.12" x2="50" y2="863.73" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="950" y1="292.15" x2="50" y2="811.77" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="950" y1="188.23" x2="50" y2="707.85" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="950" y1="136.27" x2="50" y2="655.88" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="950" y1="84.31" x2="50" y2="603.92" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="829.42" y1="50" x2="50" y2="500" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="739.42" y1="50" x2="50" y2="448.04" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="649.42" y1="50" x2="50" y2="396.08" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="469.42" y1="50" x2="50" y2="292.15" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="379.42" y1="50" x2="50" y2="240.19" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="289.42" y1="50" x2="50" y2="188.23" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="109.42" y1="50" x2="50" y2="84.31" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+    </g>
+  </g>
+  <g id="key-lines">
+    <g id="g31-isometric-grid-fine-key">
+      <line x1="860" y1="50" x2="860" y2="950" fill="none" stroke="#000000" stroke-width="1.5"/>
+      <line x1="680" y1="50" x2="680" y2="950" fill="none" stroke="#000000" stroke-width="1.5"/>
+      <line x1="500" y1="50" x2="500" y2="950" fill="none" stroke="#000000" stroke-width="1.5"/>
+      <line x1="320" y1="50" x2="320" y2="950" fill="none" stroke="#000000" stroke-width="1.5"/>
+      <line x1="140" y1="50" x2="140" y2="950" fill="none" stroke="#000000" stroke-width="1.5"/>
+      <line x1="800.58" y1="50" x2="950" y2="136.27" fill="none" stroke="#000000" stroke-width="1.5"/>
+      <line x1="440.58" y1="50" x2="950" y2="344.12" fill="none" stroke="#000000" stroke-width="1.5"/>
+      <line x1="80.58" y1="50" x2="950" y2="551.96" fill="none" stroke="#000000" stroke-width="1.5"/>
+      <line x1="50" y1="240.19" x2="950" y2="759.81" fill="none" stroke="#000000" stroke-width="1.5"/>
+      <line x1="50" y1="448.04" x2="919.42" y2="950" fill="none" stroke="#000000" stroke-width="1.5"/>
+      <line x1="50" y1="655.88" x2="559.42" y2="950" fill="none" stroke="#000000" stroke-width="1.5"/>
+      <line x1="50" y1="863.73" x2="199.42" y2="950" fill="none" stroke="#000000" stroke-width="1.5"/>
+      <line x1="950" y1="863.73" x2="800.58" y2="950" fill="none" stroke="#000000" stroke-width="1.5"/>
+      <line x1="950" y1="655.88" x2="440.58" y2="950" fill="none" stroke="#000000" stroke-width="1.5"/>
+      <line x1="950" y1="448.04" x2="80.58" y2="950" fill="none" stroke="#000000" stroke-width="1.5"/>
+      <line x1="950" y1="240.19" x2="50" y2="759.81" fill="none" stroke="#000000" stroke-width="1.5"/>
+      <line x1="919.42" y1="50" x2="50" y2="551.96" fill="none" stroke="#000000" stroke-width="1.5"/>
+      <line x1="559.42" y1="50" x2="50" y2="344.12" fill="none" stroke="#000000" stroke-width="1.5"/>
+      <line x1="199.42" y1="50" x2="50" y2="136.27" fill="none" stroke="#000000" stroke-width="1.5"/>
+      <polygon points="50,50 950,50 950,950 50,950" fill="none" stroke="#000000" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="logo-artwork">
+  </g>
+</svg>

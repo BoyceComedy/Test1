@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000px" height="1000px" viewBox="0 0 1000 1000">
+  <title>16 Overlapping Circle Lattice — Circles</title>
+  <g id="background">
+    <rect x="0" y="0" width="1000" height="1000" fill="#ffffff" stroke="none"/>
+  </g>
+  <g id="construction-guides">
+    <g id="g16-overlapping-circle-lattice-guides">
+      <circle cx="162.5" cy="500" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="218.75" cy="597.43" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="275" cy="694.86" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="331.25" cy="792.28" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="218.75" cy="402.57" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="275" cy="500" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="331.25" cy="597.43" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="387.5" cy="694.86" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="443.75" cy="792.28" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="275" cy="305.14" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="331.25" cy="402.57" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="387.5" cy="500" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="443.75" cy="597.43" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="500" cy="694.86" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="556.25" cy="792.28" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="331.25" cy="207.72" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="387.5" cy="305.14" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="443.75" cy="402.57" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="500" cy="500" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="556.25" cy="597.43" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="612.5" cy="694.86" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="668.75" cy="792.28" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="443.75" cy="207.72" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="500" cy="305.14" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="556.25" cy="402.57" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="612.5" cy="500" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="668.75" cy="597.43" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="725" cy="694.86" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="556.25" cy="207.72" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="612.5" cy="305.14" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="668.75" cy="402.57" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="725" cy="500" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="781.25" cy="597.43" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="668.75" cy="207.72" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="725" cy="305.14" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="781.25" cy="402.57" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="837.5" cy="500" r="112.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+    </g>
+  </g>
+  <g id="key-lines">
+    <g id="g16-overlapping-circle-lattice-key">
+      <circle cx="500" cy="500" r="450" fill="none" stroke="#000000" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="logo-artwork">
+  </g>
+</svg>

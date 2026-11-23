@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000px" height="1000px" viewBox="0 0 1000 1000">
+  <title>40 Nested Hexagons — Hexagons</title>
+  <g id="background">
+    <rect x="0" y="0" width="1000" height="1000" fill="#ffffff" stroke="none"/>
+  </g>
+  <g id="construction-guides">
+    <g id="g40-nested-hexagons-guides">
+      <polygon points="694.86,162.5 889.71,500 694.86,837.5 305.14,837.5 110.29,500 305.14,162.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="792.28,331.25 792.28,668.75 500,837.5 207.72,668.75 207.72,331.25 500,162.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="792.28,500 646.14,753.12 353.86,753.12 207.72,500 353.86,246.88 646.14,246.88" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="719.21,626.56 500,753.12 280.79,626.56 280.79,373.44 500,246.88 719.21,373.44" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="609.61,689.84 390.39,689.84 280.79,500 390.39,310.16 609.61,310.16 719.21,500" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="500,689.84 335.59,594.92 335.59,405.08 500,310.16 664.41,405.08 664.41,594.92" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+    </g>
+  </g>
+  <g id="key-lines">
+    <g id="g40-nested-hexagons-key">
+      <polygon points="500,50 889.71,275 889.71,725 500,950 110.29,725 110.29,275" fill="none" stroke="#000000" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="logo-artwork">
+  </g>
+</svg>

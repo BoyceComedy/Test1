@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000px" height="1000px" viewBox="0 0 1000 1000">
+  <title>52 Pentagram Construction — Sacred Geometry</title>
+  <g id="background">
+    <rect x="0" y="0" width="1000" height="1000" fill="#ffffff" stroke="none"/>
+  </g>
+  <g id="construction-guides">
+    <g id="g52-pentagram-construction-guides">
+      <polygon points="500,50 927.98,360.94 764.5,864.06 235.5,864.06 72.02,360.94" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="500,50 764.5,864.06 72.02,360.94 927.98,360.94 235.5,864.06" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="500,671.88 336.53,553.12 398.97,360.94 601.03,360.94 663.47,553.12" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="500" cy="500" r="364.06" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="500" y1="500" x2="500" y2="50" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="500" y1="500" x2="927.98" y2="360.94" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="500" y1="500" x2="764.5" y2="864.06" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="500" y1="500" x2="235.5" y2="864.06" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="500" y1="500" x2="72.02" y2="360.94" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+    </g>
+  </g>
+  <g id="key-lines">
+    <g id="g52-pentagram-construction-key">
+      <circle cx="500" cy="500" r="450" fill="none" stroke="#000000" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="logo-artwork">
+  </g>
+</svg>

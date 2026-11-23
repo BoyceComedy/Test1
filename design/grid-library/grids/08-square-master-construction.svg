@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000px" height="1000px" viewBox="0 0 1000 1000">
+  <title>08 Square Master Construction — Square and Modular</title>
+  <g id="background">
+    <rect x="0" y="0" width="1000" height="1000" fill="#ffffff" stroke="none"/>
+  </g>
+  <g id="construction-guides">
+    <g id="g08-square-master-construction-guides">
+      <circle cx="500" cy="500" r="445.48" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="500" cy="500" r="315" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="500,185 815,500 500,815 185,500" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="342.5,342.5 657.5,342.5 657.5,657.5 342.5,657.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="500" cy="500" r="157.5" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="185" y1="185" x2="815" y2="815" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="185" y1="815" x2="815" y2="185" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="185" y1="500" x2="815" y2="500" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="500" y1="185" x2="500" y2="815" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+    </g>
+  </g>
+  <g id="key-lines">
+    <g id="g08-square-master-construction-key">
+      <polygon points="185,185 815,185 815,815 185,815" fill="none" stroke="#000000" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="logo-artwork">
+  </g>
+</svg>

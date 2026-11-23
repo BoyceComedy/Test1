@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000px" height="1000px" viewBox="0 0 1000 1000">
+  <title>41 Hexagon Subdivided — Hexagons</title>
+  <g id="background">
+    <rect x="0" y="0" width="1000" height="1000" fill="#ffffff" stroke="none"/>
+  </g>
+  <g id="construction-guides">
+    <g id="g41-hexagon-subdivided-guides">
+      <line x1="500" y1="50" x2="889.71" y2="275" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="370.1" y1="125" x2="889.71" y2="425" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="240.19" y1="200" x2="889.71" y2="575" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="110.29" y1="275" x2="889.71" y2="725" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="110.29" y1="425" x2="759.81" y2="800" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="110.29" y1="575" x2="629.9" y2="875" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="110.29" y1="725" x2="500" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="889.71" y1="275" x2="889.71" y2="725" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="759.81" y1="200" x2="759.81" y2="800" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="629.9" y1="125" x2="629.9" y2="875" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="500" y1="50" x2="500" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="370.1" y1="125" x2="370.1" y2="875" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="240.19" y1="200" x2="240.19" y2="800" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="110.29" y1="275" x2="110.29" y2="725" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="889.71" y1="725" x2="500" y2="950" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="889.71" y1="575" x2="370.1" y2="875" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="889.71" y1="425" x2="240.19" y2="800" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="889.71" y1="275" x2="110.29" y2="725" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="759.81" y1="200" x2="110.29" y2="575" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="629.9" y1="125" x2="110.29" y2="425" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="500" y1="50" x2="110.29" y2="275" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+    </g>
+  </g>
+  <g id="key-lines">
+    <g id="g41-hexagon-subdivided-key">
+      <polygon points="500,50 889.71,275 889.71,725 500,950 110.29,725 110.29,275" fill="none" stroke="#000000" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="logo-artwork">
+  </g>
+</svg>

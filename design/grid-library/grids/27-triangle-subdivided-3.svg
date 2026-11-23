@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000px" height="1000px" viewBox="0 0 1000 1000">
+  <title>27 Triangle Subdivided 3 — Triangles and Isometric</title>
+  <g id="background">
+    <rect x="0" y="0" width="1000" height="1000" fill="#ffffff" stroke="none"/>
+  </g>
+  <g id="construction-guides">
+    <g id="g27-triangle-subdivided-3-guides">
+      <line x1="650" y1="370.1" x2="350" y2="370.1" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="200" y1="629.9" x2="350" y2="889.71" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="800" y1="629.9" x2="650" y2="889.71" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="800" y1="629.9" x2="200" y2="629.9" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="350" y1="370.1" x2="650" y2="889.71" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <line x1="650" y1="370.1" x2="350" y2="889.71" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+    </g>
+  </g>
+  <g id="key-lines">
+    <g id="g27-triangle-subdivided-3-key">
+      <polygon points="500,110.29 950,889.71 50,889.71" fill="none" stroke="#000000" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="logo-artwork">
+  </g>
+</svg>

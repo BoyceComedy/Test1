@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000px" height="1000px" viewBox="0 0 1000 1000">
+  <title>54 Triquetra Construction — Sacred Geometry</title>
+  <g id="background">
+    <rect x="0" y="0" width="1000" height="1000" fill="#ffffff" stroke="none"/>
+  </g>
+  <g id="construction-guides">
+    <g id="g54-triquetra-construction-guides">
+      <circle cx="500" cy="335.29" r="285.29" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="642.64" cy="582.36" r="285.29" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="357.36" cy="582.36" r="285.29" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="500" cy="500" r="164.71" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="500,335.29 642.64,582.36 357.36,582.36" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <polygon points="500,664.71 357.36,417.64 642.64,417.64" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+    </g>
+  </g>
+  <g id="key-lines">
+    <g id="g54-triquetra-construction-key">
+      <circle cx="500" cy="500" r="450" fill="none" stroke="#000000" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="logo-artwork">
+  </g>
+</svg>

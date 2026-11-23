@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000px" height="1000px" viewBox="0 0 1000 1000">
+  <title>48 Seed of Life — Sacred Geometry</title>
+  <g id="background">
+    <rect x="0" y="0" width="1000" height="1000" fill="#ffffff" stroke="none"/>
+  </g>
+  <g id="construction-guides">
+    <g id="g48-seed-of-life-guides">
+      <circle cx="500" cy="500" r="225" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="500" cy="275" r="225" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="694.86" cy="387.5" r="225" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="694.86" cy="612.5" r="225" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="500" cy="725" r="225" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="305.14" cy="612.5" r="225" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+      <circle cx="305.14" cy="387.5" r="225" fill="none" stroke="#9a9a9a" stroke-width="1"/>
+    </g>
+  </g>
+  <g id="key-lines">
+    <g id="g48-seed-of-life-key">
+      <circle cx="500" cy="500" r="450" fill="none" stroke="#000000" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="logo-artwork">
+  </g>
+</svg>
